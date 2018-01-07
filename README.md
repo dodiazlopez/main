@@ -1,5 +1,3 @@
-# DANIEL DIAZ
-
 I am [Daniel Díaz](https://i.imgur.com/2cOugju.jpg), 30, a PhD in Computer Science who performs avidly as researcher and Assistant Professor in information security.
 
 In this site you can find most of the projects which I have being part of and the technical material I have led or build.
