@@ -5,6 +5,7 @@ I am [Daniel Díaz](https://i.imgur.com/2cOugju.jpg), 30, a PhD in Computer Scie
 In this site you can find most of the projects which I have being part of and the technical material I have led or build.
 
 [You can find here my Curriculum Vitae](https://goo.gl/kxWwCL)
+[You can find here my Cover Letter](https://drive.google.com/open?id=1qnbSjh9zS2EmUsaKHI2Jx6SGR8sdpzFI)
 
 ## Validation of qualifications
 
@@ -45,6 +46,11 @@ In this site you can find most of the projects which I have being part of and th
 
 ## Key Publications
 
+*	MARIA ALEJANDRA BLANCO URIBE, EDWIN ALEXÁNDER CERÓN, NICOLÁS GÓMEZ SOLANO, DANIEL ORLANDO DIAZ LOPEZ, CLAUDIA SANTIAGO, [Data Science Applied in Cybersecurity](https://drive.google.com/open?id=1oektOB1Z6q2bhd5IXXxpJ_LKwir7JgCE), Conference Barcamp Security Edition, November 2017, Bogota, Colombia.
+*	HUGO FERNEY ÁLVAREZ LUCENA - MARIA ALEJANDRA BLANCO URIBE, DANIEL ORLANDO DIAZ LOPEZ, [Offensive Web Testing Framework (OWTF)](https://drive.google.com/open?id=1q6I2c5eEspMt_d1fIWnhreY5YGK7o70G), Conference OWASP Latam Tour, April 2017, Bogota, Colombia.
+*	JUAN PABLO ARÉVALO MERCHÁN, ANDRÉS FELIPE VEGA TORRES, DANIEL ORLANDO DIAZ LOPEZ, [OWASP Mobile Project and Internet of Things](https://drive.google.com/open?id=1NZQkHTARkpbI_CWqaTexLIAngHS0KL5l), Conference OWASP Latam Tour, April 2017, Bogota, Colombia.
+*	TATIANA ANDREA HIGUERA MUNEVAR, NICOLAS MORENO GUATAQUIRA, DANIEL ORLANDO DIAZ LOPEZ, [OWASP SeraphimDroid Project](https://drive.google.com/open?id=1bPFFBuub3N5aUL_JytkBJd5KEffVj2aN), Conference OWASP Latam Tour, April 2017, Bogota, Colombia.
+*	DAVID ESTEBAN USECHE PELÁEZ, MARIA PAULA BUENO MARTINEZ, DANIEL ORLANDO DIAZ LOPEZ, [The OWASP Enterprise Security API (ESAPI): Security Control Library](https://drive.google.com/open?id=1wxabV4Xl1Fqg4Uun_H47liIsHZaiA_dd), Conference OWASP Latam Tour, April 2017, Bogota, Colombia.
 * DANIEL DÍAZ LÓPEZ, GINÉS DÓLERA TORMO, FÉLIX GÓMEZ MÁRMOL, GREGORIO MARTÍNEZ PÉREZ, ["Dynamic counter-measures for risk-based access control systems: an evolutive approach"](http://www.sciencedirect.com/science/article/pii/S0167739X14002052), Elsevier Future Generation Computer Systems, Special Issue on Trust, Security and Privacy in Distributed Systems, vol. 55, pp. 321-335, 2016 [IF=2.639, Q1 (2013)]
 * DANIEL DÍAZ LÓPEZ, GINÉS DÓLERA TORMO, FÉLIX GÓMEZ MÁRMOL, GREGORIO MARTÍNEZ PÉREZ, ["Managing XACML systems in distributed environments through Meta-Policies"](http://www.sciencedirect.com/science/article/pii/S0167404814001503), Computers & Security, vol. 48, pp. 92-115, February 2015 [IF=1.172, Q2 (2013)]
 * DANIEL O. DÍAZ LÓPEZ, GINÉS DÓLERA TORMO, FÉLIX GÓMEZ MÁRMOL, JOSÉ M. ALCARAZ CALERO, GREGORIO MARTÍNEZ PÉREZ, ["Live digital, remember digital: State of the art and research challenges"](http://www.sciencedirect.com/science/article/pii/S0045790613002905), Computers & Electrical Engineering, 40th-year Commemorative Special Issue, vol. 40, no. 1, pp. 109-120, 2014 [IF=0.992, Q3 (2013)]
