@@ -1,25 +1,53 @@
+# DANIEL DIAZ 
+
+## Information prepared for GOOGLE AI RESIDENT PROGRAM 2018
+
 I am [Daniel Díaz](https://i.imgur.com/2cOugju.jpg), 30, a PhD in Computer Science who performs avidly as researcher and Assistant Professor in information security.
 
 In this site you can find most of the projects which I have being part of and the technical material I have led or build.
 
-Extended Curriculum Vitae
+[You can find here my Curriculum Vitae](https://goo.gl/kxWwCL)
 
-## Software projects
+## Validation of qualifications
 
-* COSMOS: Collaborative, Seamless and Adaptive Sentinels for the Internet of Things
-    * [Project homepage](http://webs.um.es/felixgm/projects/cosmos/)
+* BA/BS degree in a STEM field such as Computer Science, Mathematics or Statistics, or equivalent practical experience: Yes, I have a [PhD degree in Computer science, security](https://goo.gl/R5kW1Y)
+* Completed coursework in calculus, linear algebra, and probability, or their equivalent: Yes, I studied the following courses: [Calculus I (Diferential calculus)](https://drive.google.com/open?id=1b4mvIjAOEKUUlrCvqUvYAol70U5GttD3), [Calculus II (Integral calculus)](https://drive.google.com/open?id=156FvhEb-hmy1AXMKyYfXEFhnYxo6efje), [Calculus III (Multivariable calculus)](https://drive.google.com/open?id=1w-awCOoZY2YHa7DxYaCyJxlsgrZmWEbD), [linear algebra](https://drive.google.com/open?id=1tZ48VCWrfs_2Z4_Ss-Cyqx0S6fvDTVi9), [Statistic and probability](https://drive.google.com/open?id=1aE3CPksSV1LAPCRSaq42wbLD3v6MiNNb). [The full list of courses and grades can be seen here [English].](https://drive.google.com/open?id=1Kr2XWdzC9crdkxMGuft2VEGFqRzjylv7)
+* Experience with one or more general purpose programming languages, including but not limited to: C/C++ or Python: Yes, I studied the following courses: [Introduction to computer science (Based on C/C++) ](https://drive.google.com/open?id=1Ju4aN86Q6XzwvLokUSh3sDz5WOo8AFpA), [Object-oriented programming (Based on Java)](https://drive.google.com/open?id=1hFjmRIPldFu56tKEHybEaEDHCVEHy3Rs).[The full list of courses and grades can be seen here [English].](https://drive.google.com/open?id=1Kr2XWdzC9crdkxMGuft2VEGFqRzjylv7)
+* Experience with machine learning or deep learning, applications of machine learning to NLP, computer vision, speech, systems, robotics, algorithms, optimization, on-device learning, social networks, economics, information retrieval, journalism, or health care: Yes, I have the following experience with machine learning:
+    * I studied the course ["Modeling and data science: A key tool for business intelligence and decision taking (August 2017)"](http://www.escuelaing.edu.co/es/programas/educacion_continuada/cursostalleres/Modelado+y+ciencia+de+datos:+una+herramienta+de+soporte+para+la+inteligencia+de+los+negocios+y+la+toma+de+decisiones/presentacion).
+    * I developed a datascience project aimed to predict the water consume for London city (Ice Water Project). One predictive model for each season was implemented.
+        * Brief description:
+            * [Root project - Ice Water Project](http://cordis.europa.eu/project/rcn/105539_en.html)
+            * [Project overview - Executive summary](https://drive.google.com/open?id=15b2R2w9UjA2CuoUPO9TsIChwdBpUUuKf)
+            * [Databases](https://drive.google.com/open?id=1GhKWklZCYAPh5_XwWddO8amj8QQPxZOz)
+            * [R Scripts](https://drive.google.com/open?id=181gNbimak9cqlsmOcXjKBBV4BmE8heh-)
+    * I proposed and led a project aimed to apply Data Science in Cibersecurity events. It was a project developed for the [General Command of the Military Forces](http://www.cgfm.mil.co/ingles/) (CGFM) of Colombia. 
+        * Brief description: 
+            * [Press release](http://notiweb.escuelaing.edu.co/blog/2017/10/31/la-escuela-presenta-resultados-de-proyecto-relacionados-con-la-ciberseguridad-a-las-fuerzas-armadas-del-pais/)
+            * [Project overview - Presentation for the Barcamp Security Edition 2017](https://goo.gl/8bMZuG)
+            * [Lecture about Data mining algorithms and its use in Malware detection](https://goo.gl/G5FCBp)
 
-* Cyberintelligence for IoT
-    * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
+## Other software projects
 
-* Design and development of IOT devices for SMART HOME
-    * [GitHub Link](https://github.com/Manny2296/Desarrollo-e-Implementacion-Dispositivos-IoT)
+* COSMOS: Collaborative, Seamless and Adaptive Sentinels for the Internet of Things - Project developed for the University of Murcia
+        * [Project homepage](http://webs.um.es/felixgm/projects/cosmos/)
 
 * Security for IoT: Solution for management of security events in (IoT) architectures
+        * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
+        * [Poster](https://)
+        * [Draft paper](https://)
+        
+* Cyberintelligence for Internet of Things
+        * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
+        * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-Intel.jpg)
 
-* Implementation of a SIEM solution for information assets protection
+* Design and development of IOT devices for SMART HOME
+        * [GitHub Link](https://github.com/Manny2296/Desarrollo-e-Implementacion-Dispositivos-IoT)
+        * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-IoTNodes.jpg)
 
 * Analysis of information security risks in different IoT scenarios
+        * [Draft paper 1](https://)
+        * [Draft paper 2](https://)
 
 ## Key Publications
 
@@ -36,7 +64,15 @@ Extended Curriculum Vitae
 A full list of 62 items between scientific publications and scientific and technological consultancy - Technical Production [can be found here](http://webs.um.es/felixgm/pubs/managing-access-control-systems-in-distributed-environments-with-dynamic-asset-protection/).
 
 
-## Media Content (Press releases, interviews and demos)
+## Media Content (Press release, interviews and demos)
+
+* [Press release about scholarship awarded to professor Daniel Diaz, (2017-07-31)](http://notiweb.escuelaing.edu.co/blog/2017/07/31/profesor-de-ingenieria-de-sistemas-obtiene-beca-de-la-oea/)
+
+* [Press release about participation in the Cyberex 2017, (2017-07-25)](http://notiweb.escuelaing.edu.co/blog/2017/08/08/estudiantes-de-ingenieria-de-sistemas-participan-en-ciberseguridad-cyberex-2017/)
+
+* [Press release about public lecture "Así fue el Cybersecurity Summer BootCamp 2017”, (2017-10-04)](http://notiweb.escuelaing.edu.co/blog/2017/10/10/asi-fue-el-cybersecurity-summer-bootcamp-2017/)
+
+* [Press release about public lecture "CSX CYBERSECURITY FUNDAMENTALS by ISACA", (2017-10-18)](http://notiweb.escuelaing.edu.co/blog/2017/10/26/5798/)
 
 * [Interview "Bullet Proof Password" - "Contraseñas a prueba de todos", for the TV program "TECNOSFERA" belonging to "EL TIEMPO TELEVISION" (2017-03-16)](https://www.youtube.com/watch?v=LzXKyVUTbl8)
 
@@ -60,7 +96,7 @@ A full list of 62 items between scientific publications and scientific and techn
  
 * [Demo Command Injection over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=M2wUCSIeeqY) 
 
-## Related external links
+## Professional and academic profiles
 
 [CvLAC Profile](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001616521)
 [University of Murcia Profile](http://webs.um.es/felixgm/pubs/managing-access-control-systems-in-distributed-environments-with-dynamic-asset-protection/)
