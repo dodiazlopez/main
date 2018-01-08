@@ -28,20 +28,20 @@ In this site you can find most of the projects which I have being part of and th
 ## Other software projects
 
 * COSMOS: Collaborative, Seamless and Adaptive Sentinels for the Internet of Things - Project developed for the University of Murcia
-      * [Project homepage](http://webs.um.es/felixgm/projects/cosmos/)
+   * [Project homepage](http://webs.um.es/felixgm/projects/cosmos/)
 * Security for IoT: Solution for management of security events in (IoT) architectures
-      * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
-      * [Poster](https://)
-      * [Draft paper](https://)
+   * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
+   * [Poster](https://)
+   * [Draft paper](https://)
 * Cyberintelligence for Internet of Things
-         * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
-         * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-Intel.jpg)
+   * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
+   * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-Intel.jpg)
 * Design and development of IOT devices for SMART HOME
-         * [GitHub Link](https://github.com/Manny2296/Desarrollo-e-Implementacion-Dispositivos-IoT)
-         * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-IoTNodes.jpg)
+   * [GitHub Link](https://github.com/Manny2296/Desarrollo-e-Implementacion-Dispositivos-IoT)
+   * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-IoTNodes.jpg)
 * Analysis of information security risks in different IoT scenarios
-         * [Draft paper 1](https://)
-         * [Draft paper 2](https://)
+   * [Draft paper 1](https://)
+   * [Draft paper 2](https://)
 
 ## Key Publications
 
