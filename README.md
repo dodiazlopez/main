@@ -15,21 +15,21 @@ In this site you can find most of the projects which I have being part of and th
 * Experience with one or more general purpose programming languages, including but not limited to: C/C++ or Python: Yes, I studied the following courses: [Introduction to computer science (Based on C/C++) ](https://drive.google.com/open?id=1Ju4aN86Q6XzwvLokUSh3sDz5WOo8AFpA), [Object-oriented programming (Based on Java)](https://drive.google.com/open?id=1hFjmRIPldFu56tKEHybEaEDHCVEHy3Rs).[The full list of courses and grades can be seen here [English].](https://drive.google.com/open?id=1Kr2XWdzC9crdkxMGuft2VEGFqRzjylv7)
 * Experience with machine learning or deep learning, applications of machine learning to NLP, computer vision, speech, systems, robotics, algorithms, optimization, on-device learning, social networks, economics, information retrieval, journalism, or health care: Yes, I have the following experience with machine learning:
     * I studied the course ["Modeling and data science: A key tool for business intelligence and decision taking (August 2017)"](http://www.escuelaing.edu.co/es/programas/educacion_continuada/cursostalleres/Modelado+y+ciencia+de+datos:+una+herramienta+de+soporte+para+la+inteligencia+de+los+negocios+y+la+toma+de+decisiones/presentacion).
-    * I developed a datascience project aimed to predict the water consume for London city (Ice Water Project). One predictive model for each season was implemented.
+    * I developed a datascience project aimed to predict the water consume for London city (Ice Water Project).
         * Brief description:
-            * Key achievement: 
-            * Used tools: [RStudio](https://www.rstudio.com/)
+            * Key achievement: Development of 4 predictive models (one for each season) which determine the water consume for London and helps to control the water pumps which manage the water flow, according to real demand. These models can also support the planning of maintenance operations for the city aqueduct.
             * [Root project - Ice Water Project](http://cordis.europa.eu/project/rcn/105539_en.html)
             * [Project overview - Executive summary](https://drive.google.com/open?id=15b2R2w9UjA2CuoUPO9TsIChwdBpUUuKf)
             * [Databases](https://drive.google.com/open?id=1GhKWklZCYAPh5_XwWddO8amj8QQPxZOz)
             * [R Scripts](https://drive.google.com/open?id=181gNbimak9cqlsmOcXjKBBV4BmE8heh-)
+            * Used tools: [RStudio](https://www.rstudio.com/)
     * I proposed and led a project aimed to apply Data Science in Cibersecurity events. It was a project developed for the [General Command of the Military Forces](http://www.cgfm.mil.co/ingles/) (CGFM) of Colombia. 
         * Brief description: 
-            * Key achievement:
-            * Used tools: [Waikato Environment for Knowledge Analysis - WEKA](https://www.cs.waikato.ac.nz/ml/weka/), [ArcSight Enterprise Security Manager (ESM) - Security Information and Event Management (SIEM)](https://software.microfocus.com/en-us/products/siem-security-information-event-management/overview), [Nitro Security McAfee - Security Information and Event Management (SIEM)](https://www.mcafee.com/us/products/siem/index.aspx), [OSSIM - The Open Source SIEM](https://www.alienvault.com/products/ossim)
+            * Key achievement: Development of a predictive model which determines if there is an abnormal access over an information assets part of critical infraestructure. Development of a predictive model which determines if there is an abnormal behevior in the  flow of cybersecurity events. Reductio in the treatment of security incidents in the SOC (Security Operation Center) of the CGFM.
             * [Press release](http://notiweb.escuelaing.edu.co/blog/2017/10/31/la-escuela-presenta-resultados-de-proyecto-relacionados-con-la-ciberseguridad-a-las-fuerzas-armadas-del-pais/)
             * [Project overview - Presentation for the Barcamp Security Edition 2017](https://goo.gl/8bMZuG)
             * [Lecture about Data mining algorithms and its use in Malware detection](https://goo.gl/G5FCBp)
+            * Used tools: [Waikato Environment for Knowledge Analysis - WEKA](https://www.cs.waikato.ac.nz/ml/weka/), [ArcSight Enterprise Security Manager (ESM) - Security Information and Event Management (SIEM)](https://software.microfocus.com/en-us/products/siem-security-information-event-management/overview), [Nitro Security McAfee - Security Information and Event Management (SIEM)](https://www.mcafee.com/us/products/siem/index.aspx), [OSSIM - The Open Source SIEM](https://www.alienvault.com/products/ossim)
 
 ## Other software projects
 
@@ -38,19 +38,19 @@ In this site you can find most of the projects which I have being part of and th
 * Security for IoT: Solution for management of security events in (IoT) architectures
    * [GitLab Link](https://github.com/andresvega82/SIEM-IoT)
    * Used tools: [OSSIM - The Open Source SIEM](https://www.alienvault.com/products/ossim), [OpenVas Vulnerability Scanner](), [Suricata IDS](), [Kismet Wireless IDS]() 
-   * [Draft paper: Security for IoT: Solution for managing security events in Internet of Things Architectures (IoT)](https://goo.gl/BuJAe9)
+   * Draft paper: [Security for IoT: Solution for managing security events in Internet of Things Architectures (IoT)](https://goo.gl/BuJAe9)
 * Cyberintelligence for Internet of Things
    * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
-   * Used tools: [Radare2 Reversing Engineering](), [MISP: Malware Information Sharing Platform](), [Yara Rules](), [R2Yara]()
    * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-Intel.jpg)
+   * Used tools: [Radare2 Reversing Engineering](), [MISP: Malware Information Sharing Platform](), [Yara Rules](), [R2Yara]()
 * Design and development of IOT devices for SMART HOME
    * [GitHub Link](https://github.com/Manny2296/Desarrollo-e-Implementacion-Dispositivos-IoT)
-   * Used tools: [OSMC](), [WepIOPI Framework](), [IoT HUB from Microsoft](), [StreamAnalytics](), [PowerBI]() 
    * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-IoTNodes.jpg)
+   * Used tools: [OSMC](), [WepIOPI Framework](), [IoT HUB from Microsoft](), [StreamAnalytics](), [PowerBI]()
 * Analysis of information security risks in different IoT scenarios
-   * Used tools: [Samsung Artik IoT](), [Amazon IoT](), [Oracle IoT](), [IBM Watson IoT]() 
-   * [Draft paper: Towards IoT Security: Revision of Scenarios and Security Challenges](https://goo.gl/9M3MMG)
-   * [Draft paper: Case Report: Comparison of security features in IoT platforms and implementation of an avionic IoT service](https://goo.gl/r8179r)
+   * Draft paper: [Towards IoT Security: Revision of Scenarios and Security Challenges](https://goo.gl/9M3MMG)
+   * Draft paper: [Case Report: Comparison of security features in IoT platforms and implementation of an avionic IoT service](https://goo.gl/r8179r)
+   * Used tools: [Samsung Artik IoT](), [Amazon IoT](), [Oracle IoT](), [IBM Watson IoT]()
 
 ## Key Publications
 
