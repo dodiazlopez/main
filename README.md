@@ -34,7 +34,7 @@ In this site you can find most of the projects which I have being part of and th
 * Security for IoT: Solution for management of security events in (IoT) architectures
    * [GitLab Link](https://github.com/andresvega82/SIEM-IoT)
    * [Poster](https://)
-   * [Draft paper](https://)
+   * [Draft paper](https://goo.gl/BuJAe9)
 * Cyberintelligence for Internet of Things
    * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
    * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-Intel.jpg)
