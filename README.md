@@ -34,7 +34,7 @@ In this site you can find most of the projects which I have being part of and th
 * Security for IoT: Solution for management of security events in (IoT) architectures
    * [GitLab Link](https://github.com/andresvega82/SIEM-IoT)
    * [Poster](https://)
-   * [Draft paper](https://goo.gl/BuJAe9)
+   * [Draft paper: Security for IoT: Solution for managing security events in Internet of Things Architectures (IoT)](https://goo.gl/BuJAe9)
 * Cyberintelligence for Internet of Things
    * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
    * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-Intel.jpg)
@@ -42,8 +42,8 @@ In this site you can find most of the projects which I have being part of and th
    * [GitHub Link](https://github.com/Manny2296/Desarrollo-e-Implementacion-Dispositivos-IoT)
    * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-IoTNodes.jpg)
 * Analysis of information security risks in different IoT scenarios
-   * [Draft paper 1](https://goo.gl/9M3MMG)
-   * [Draft paper 2](https://)
+   * [Draft paper: Towards IoT Security: Revision of Scenarios and Security Challenges](https://goo.gl/9M3MMG)
+   * [Draft paper: Case Report: Comparison of security features in IoT platforms and implementation of an avionic IoT service](https://goo.gl/r8179r)
 
 ## Key Publications
 
