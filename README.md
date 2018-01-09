@@ -17,7 +17,7 @@ In this site you can find most of the projects which I have being part of and th
     * I studied the course ["Modeling and data science: A key tool for business intelligence and decision taking (August 2017)"](http://www.escuelaing.edu.co/es/programas/educacion_continuada/cursostalleres/Modelado+y+ciencia+de+datos:+una+herramienta+de+soporte+para+la+inteligencia+de+los+negocios+y+la+toma+de+decisiones/presentacion).
     * I developed a datascience project aimed to predict the water consume for London city (Ice Water Project).
         * Brief description:
-            * Key achievement: Development of 4 predictive models (one for each season) which determine the water consume for London and helps to control the water pumps which manage the water flow, according to real demand. These models can also support the planning of maintenance operations for the city aqueduct.
+            * Key achievement: Development of 4 predictive models (one for each season) which determine the water consume for London and helps to control the water pumps which manage the water flow bringing it closer to the real demand. These models can also support the planning of maintenance operations for the city aqueduct.
             * [Root project - Ice Water Project](http://cordis.europa.eu/project/rcn/105539_en.html)
             * [Project overview - Executive summary](https://drive.google.com/open?id=15b2R2w9UjA2CuoUPO9TsIChwdBpUUuKf)
             * [Databases](https://drive.google.com/open?id=1GhKWklZCYAPh5_XwWddO8amj8QQPxZOz)
@@ -25,7 +25,7 @@ In this site you can find most of the projects which I have being part of and th
             * Used tools: [RStudio](https://www.rstudio.com/)
     * I proposed and led a project aimed to apply Data Science in Cibersecurity events. It was a project developed for the [General Command of the Military Forces](http://www.cgfm.mil.co/ingles/) (CGFM) of Colombia. 
         * Brief description: 
-            * Key achievement: Development of a predictive model which determines if there is an abnormal access over an information assets part of critical infraestructure. Development of a predictive model which determines if there is an abnormal behevior in the  flow of cybersecurity events. Reductio in the treatment of security incidents in the SOC (Security Operation Center) of the CGFM.
+            * Key achievement: Development of a predictive model which determines if there is an abnormal access over an information assets part of critical infraestructure. Development of a predictive model which determines if there is an abnormal behevior in the  flow of cybersecurity events. Reduction in the attendance and treatment time of security incidents in the SOC (Security Operation Center) of the CGFM.
             * [Press release](http://notiweb.escuelaing.edu.co/blog/2017/10/31/la-escuela-presenta-resultados-de-proyecto-relacionados-con-la-ciberseguridad-a-las-fuerzas-armadas-del-pais/)
             * [Project overview - Presentation for the Barcamp Security Edition 2017](https://goo.gl/8bMZuG)
             * [Lecture about Data mining algorithms and its use in Malware detection](https://goo.gl/G5FCBp)
