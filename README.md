@@ -42,7 +42,7 @@ In this site you can find most of the projects which I have being part of and th
    * [GitHub Link](https://github.com/Manny2296/Desarrollo-e-Implementacion-Dispositivos-IoT)
    * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-IoTNodes.jpg)
 * Analysis of information security risks in different IoT scenarios
-   * [Draft paper 1](https://)
+   * [Draft paper 1](https://goo.gl/9M3MMG)
    * [Draft paper 2](https://)
 
 ## Key Publications
