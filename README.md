@@ -37,20 +37,20 @@ In this site you can find most of the projects which I have being part of and th
    * [Project homepage](http://webs.um.es/felixgm/projects/cosmos/)
 * Security for IoT: Solution for management of security events in (IoT) architectures
    * [GitLab Link](https://github.com/andresvega82/SIEM-IoT)
-   * Used tools: [OSSIM - The Open Source SIEM](https://www.alienvault.com/products/ossim), [OpenVas Vulnerability Scanner](), [Suricata IDS](), [Kismet Wireless IDS]() 
+   * Used tools: [OSSIM - The Open Source SIEM](https://www.alienvault.com/products/ossim), [OpenVas Vulnerability Scanner](http://www.openvas.org/), [Suricata IDS](https://suricata-ids.org/), [Kismet Wireless IDS](https://www.kismetwireless.net/) 
    * Draft paper: [Security for IoT: Solution for managing security events in Internet of Things Architectures (IoT)](https://goo.gl/BuJAe9)
 * Cyberintelligence for Internet of Things
    * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
    * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-Intel.jpg)
-   * Used tools: [Radare2 Reversing Engineering](), [MISP: Malware Information Sharing Platform](), [Yara Rules](), [R2Yara]()
+   * Used tools: [Radare2 Reversing Engineering](https://github.com/radare/radare2), [MISP: Malware Information Sharing Platform](http://www.misp-project.org/), [Yara Rules](https://github.com/Yara-Rules/rules), [R2Yara](https://github.com/Yara-Rules/r2yara)
 * Design and development of IOT devices for SMART HOME
    * [GitHub Link](https://github.com/Manny2296/Desarrollo-e-Implementacion-Dispositivos-IoT)
    * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-IoTNodes.jpg)
-   * Used tools: [OSMC](), [WepIOPI Framework](), [IoT HUB from Microsoft](), [StreamAnalytics](), [PowerBI]()
+   * Used tools: [OSMC](https://osmc.tv/), [WepIOPI Framework](http://webiopi.trouch.com/), [IoT HUB from Microsoft](https://azure.microsoft.com/en-us/services/iot-hub/), [StreamAnalytics](https://azure.microsoft.com/en-us/services/stream-analytics/), [PowerBI](https://powerbi.microsoft.com/)
 * Analysis of information security risks in different IoT scenarios
    * Draft paper: [Towards IoT Security: Revision of Scenarios and Security Challenges](https://goo.gl/9M3MMG)
    * Draft paper: [Case Report: Comparison of security features in IoT platforms and implementation of an avionic IoT service](https://goo.gl/r8179r)
-   * Used tools: [Samsung Artik IoT](), [Amazon IoT](), [Oracle IoT](), [IBM Watson IoT]()
+   * Used tools: [Samsung Artik IoT](https://www.artik.io/), [Amazon IoT](https://aws.amazon.com/iot/?nc1=f_ls), [Oracle IoT](https://cloud.oracle.com/iot), [IBM Watson IoT](https://internetofthings.ibmcloud.com/#/)
 
 ## Key Publications
 
