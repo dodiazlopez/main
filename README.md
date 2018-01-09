@@ -32,7 +32,7 @@ In this site you can find most of the projects which I have being part of and th
 * COSMOS: Collaborative, Seamless and Adaptive Sentinels for the Internet of Things - Project developed for the University of Murcia
    * [Project homepage](http://webs.um.es/felixgm/projects/cosmos/)
 * Security for IoT: Solution for management of security events in (IoT) architectures
-   * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
+   * [GitLab Link](https://github.com/andresvega82/SIEM-IoT)
    * [Poster](https://)
    * [Draft paper](https://)
 * Cyberintelligence for Internet of Things
