@@ -6,7 +6,8 @@ In this site you can find most of the projects which I have being part of and th
 
 [You can find here my Curriculum Vitae](https://goo.gl/dymTWV)
 
-[comment]: <> ([You can find here my Cover Letter](https://drive.google.com/open?id=1qnbSjh9zS2EmUsaKHI2Jx6SGR8sdpzFI))
+
+<!--- [You can find here my Cover Letter](https://drive.google.com/open?id=1qnbSjh9zS2EmUsaKHI2Jx6SGR8sdpzFI) ---> 
 
 ## Validation of qualifications
 
