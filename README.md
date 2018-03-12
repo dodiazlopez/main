@@ -1,4 +1,4 @@
-## Information prepared for GOOGLE AI RESIDENT PROGRAM 2018
+## Short Curriculum
 
 I am [Daniel Díaz](https://i.imgur.com/2cOugju.jpg), 30, a PhD in Computer Science who performs avidly as researcher and Assistant Professor in information security.
 
