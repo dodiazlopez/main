@@ -4,7 +4,7 @@ I am [Daniel Díaz](https://i.imgur.com/2cOugju.jpg), 30, a PhD in Computer Scie
 
 In this site you can find most of the projects which I have being part of and the technical material I have led or build.
 
-[You can find here my Curriculum Vitae](https://goo.gl/dymTWV)
+[You can find here an extended Curriculum Vitae](https://goo.gl/dymTWV)
 
 
 <!--- [You can find here my Cover Letter](https://drive.google.com/open?id=1qnbSjh9zS2EmUsaKHI2Jx6SGR8sdpzFI) ---> 
