@@ -275,7 +275,10 @@ Date: July of 2003
 
 # CONTRIBUTIONS TO MAKING COMPUTER SCIENCE MORE EQUITATIVE AND ADITIONAL ACTIVITIES RELATED WITH SHARING OF KNOWLEDGE
 
-## Work in committees and community engagement
+
+
+
+**Work in committees and community engagement**
 
 1.	I am an active **OWASP Bogotá Chapter** co-leader helping in the planning and development of different initiatives like the OWASP Latam Tour 2017 and 2018.  The OWASP Latam Tour is an annual event that is developed in a simultaneous way in different Latin America cities in the months of April and May. We had 215 participants in the 2017 edition and almost 320 participants in the 2018 edition. More information about the Owasp Bogota Chapter can be find here: [https://www.owasp.org/index.php/Bogota](https://www.owasp.org/index.php/Bogota) 
 
@@ -284,7 +287,10 @@ Date: July of 2003
 3.	I am an academic counselor of 25 bachelor students (women and men) from the Computer Science Faculty, which are in the first years of the program. Doing this labor as counselor has been one of the most grateful activities I have done, because these students feel free to tell me about their academic worries, vocational concerns and even personal issues. I take it like a really challenge because I am engaged to avoid the scholar desertion due situations that would have been avoided if a proper action/strategy would have adopted.
 
 
-## Support of students for academic labors
+---
+
+
+**Support of students for academic labors**
 
 I definitely encourage students to participate in different academic activities like conferences, seminars contests ferias etc. This implies support in the preparation of the content to be shown, the preparation of the students to face a big audience and looking for the financial support with sponsors to make possible the participation. Some press release about these activities can be found next:
 
@@ -299,7 +305,10 @@ I definitely encourage students to participate in different academic activities 
 
 
 
-## Promotion of research results
+
+---
+
+**Promotion of research results**
 
 As part of the spreading of result I am always interested in publicizing the new contributions and when possible achieve that papers get published as “open access” or with Creative Common License (CC), so they can be read for whoever is interested. Some recent press release related to paper publications can be found next:
 
@@ -310,7 +319,8 @@ As part of the spreading of result I am always interested in publicizing the new
 5.	[Press release about scholarship awarded to professor Daniel Diaz, (2017-07-31)](http://notiweb.escuelaing.edu.co/blog/2017/07/31/profesor-de-ingenieria-de-sistemas-obtiene-beca-de-la-oea/)
 
 
-## Networking activities (talks, meetings, presentations for non-specialist audiences)
+** Networking activities (talks, meetings, presentations for non-specialist audiences)**
+
 I have participated as speaker in some events addressed for non-specialist audiences with the purpose of spread how the science and the research I develop can make our societies safer. Additionally, I am always thinking about doing networking with governmental, industry or academic partners to join efforts and achieve common goals. Some press release related with these activities can be found next:
 
 1.	[Press release about meeting with the rector of the University of Murcia (Spain) to start research agreement between universities (2018-11-20)](http://notiweb.escuelaing.edu.co/blog/2018/11/20/profesor-de-la-escuela-se-reunio-con-el-rector-de-la-universidad-de-murcia-espana/)
@@ -322,7 +332,10 @@ I have participated as speaker in some events addressed for non-specialist audie
 7.	[Press release about participation as speaker in the data analytics symposium (2018-10-02)](http://notiweb.escuelaing.edu.co/blog/2018/10/02/asi-se-desarrollo-la-segunda-version-del-simposio-de-data-analytics/)
 
 
-## Activity in Social Media and Advocacy
+
+---
+
+**Activity in Social Media and Advocacy**
 
 I participate with some frequency in different social media like broadcast TV (El Tiempo Television) and Youtube Channels (Channel i+i News, Channel from the Computer Science Faculty), and I also advocate that my students do it. Some available content in which I have participated can be reached in the following links:
 
@@ -361,7 +374,7 @@ I participate with some frequency in different social media like broadcast TV (E
 
 ---
 
-# Professional and academic profiles
+## Professional and academic profiles
 
 * [CvLAC Profile](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001616521)
 * [University of Murcia Profile](http://webs.um.es/felixgm/pubs/managing-access-control-systems-in-distributed-environments-with-dynamic-asset-protection/)
