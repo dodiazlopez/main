@@ -374,7 +374,7 @@ I participate with some frequency in different social media like broadcast TV (E
 
 ---
 
-# Professional and academic profiles
+# PROFESSIONAL AND ACADEMIC PROFILES
 
 * [CvLAC Profile](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001616521)
 * [University of Murcia Profile](http://webs.um.es/felixgm/pubs/managing-access-control-systems-in-distributed-environments-with-dynamic-asset-protection/)
