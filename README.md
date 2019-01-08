@@ -3,12 +3,16 @@ I am [Daniel Díaz](https://i.imgur.com/2cOugju.jpg), 31, a PhD in Computer Scie
 
 <!--- [You can find here my Cover Letter](https://drive.google.com/open?id=1qnbSjh9zS2EmUsaKHI2Jx6SGR8sdpzFI) ---> 
 
+
+---
 # MOST IMPORTANT QUALIFICATIONS
 
 * BA/BS degree in a STEM field such as Computer Science, Mathematics or Statistics, or equivalent practical experience: Yes, I have a [PhD degree in Computer science, security](https://goo.gl/R5kW1Y)
 * Completed coursework in calculus, linear algebra, and probability, or their equivalent: Yes, I studied the following courses: [Calculus I (Diferential calculus)](https://drive.google.com/open?id=1b4mvIjAOEKUUlrCvqUvYAol70U5GttD3), [Calculus II (Integral calculus)](https://drive.google.com/open?id=156FvhEb-hmy1AXMKyYfXEFhnYxo6efje), [Calculus III (Multivariable calculus)](https://drive.google.com/open?id=1w-awCOoZY2YHa7DxYaCyJxlsgrZmWEbD), [linear algebra](https://drive.google.com/open?id=1tZ48VCWrfs_2Z4_Ss-Cyqx0S6fvDTVi9), [Statistic and probability](https://drive.google.com/open?id=1aE3CPksSV1LAPCRSaq42wbLD3v6MiNNb). [The full list of courses and grades can be seen here [English].](https://drive.google.com/open?id=1Kr2XWdzC9crdkxMGuft2VEGFqRzjylv7)
 * Experience with one or more general purpose programming languages, including: Java, C/C++ and Python: Yes, I studied the following courses: [Introduction to computer science (Based on C/C++) ](https://drive.google.com/open?id=1Ju4aN86Q6XzwvLokUSh3sDz5WOo8AFpA), [Object-oriented programming (Based on Java)](https://drive.google.com/open?id=1hFjmRIPldFu56tKEHybEaEDHCVEHy3Rs). [The full list of courses and grades can be seen here [English].](https://drive.google.com/open?id=1Kr2XWdzC9crdkxMGuft2VEGFqRzjylv7)
 * Experience with machine learning or deep learning, applications of machine learning to NLP, computer vision, speech, systems, robotics, algorithms, optimization, on-device learning, social networks, economics, information retrieval, journalism, or health care: Yes, I have studied the following courses: [Modeling and Data science: A key tool for business intelligence and decision taking (August 2017)](http://www.escuelaing.edu.co/es/programas/educacion_continuada/cursostalleres/Modelado+y+ciencia+de+datos:+una+herramienta+de+soporte+para+la+inteligencia+de+los+negocios+y+la+toma+de+decisiones/presentacion), [Extraction and Analysis of Information through Social Mining (June 2018)](https://www.escuelaing.edu.co/es/programas/educacion_continuada/cursostalleres/T%C3%A9cnicas+actuales+de+extracci%C3%B3n+y+an%C3%A1lisis+de+informaci%C3%B3n+mediante+Miner%C3%ADa+Social+-+Escuela+internacional+de+verano/presentacion), [The Power of Visualization in Data Science (June 2018)](https://www.escuelaing.edu.co/es/programas/educacion_continuada/cursostalleres/El+poder+de+la+visualizaci%C3%B3n+en+ciencia+de+datos+Escuela+internacional+de+verano/presentacion).
+ 
+---
  
 # SOFTWARE PROJECTS
 
@@ -52,7 +56,10 @@ I have participated in the development of different projects, mainly:
    * Used tools: [Samsung Artik IoT](https://www.artik.io/), [Amazon IoT](https://aws.amazon.com/iot/?nc1=f_ls), [Oracle IoT](https://cloud.oracle.com/iot), [IBM Watson IoT](https://internetofthings.ibmcloud.com/#/)
 
 
-## EDUCATION AND TRAINING
+
+---
+
+# EDUCATION AND TRAINING
 
 * [University of Murcia (Spain)](https://digitum.um.es/jspui/handle/10201/46998?mode=full)
 Doctor of Philosophy (PhD) in Computer Science (Security in Services and Applications in Networks), 2011 – 2015. Grade: Cum Laude
@@ -64,7 +71,9 @@ Master in New Technologies in Computer Science (Networks and Telematics), 2010 -
 Engineer’s degree, Electronic and Telecommunications Engineer, 2003 - 2009
 
 
-## TECHNICAL CERTIFICATIONS
+---
+
+# TECHNICAL CERTIFICATIONS
 
 * **Law Enforcement Agencies (FCS) – Cybersecurity Intelligence Specialist**
 Spanish National Cybersecurity Institute (INCIBE). July 2018
@@ -82,7 +91,10 @@ SGS. License 39680853/128103886. July 2014
 EXIN your ICT competence partner. License 4955987.20238281. May 2013
 
 
-## AWARDS
+
+---
+
+# AWARDS
 
 1.	**Award: Scholarship to participate in the Cybersecurity Summer BootCamp 2018**
 Awarded by: General Secretariat of the Organization of American States – OAS (International) and the Spanish National Cybersecurity Institute – INCIBE (Spain)
@@ -127,6 +139,10 @@ Awarded by: Seminario Menor Arquidiocesano (Colombia)
 Type of entity: Catholic High School.
 Date: July of 2003 
 
+
+
+---
+
 # DEVELOPMENT OF PROJECTS
 
 ## PARTICIPATION IN RESEARCH PROJECTS WITH FUNDING
@@ -161,6 +177,9 @@ Date: July of 2003
 
 8. **CONTRATO INTERADMINISTRATIVO No. 198 DEL 2012** suscrito entre la Superintendencia de Industria y Comercio – SIC y el Centro de Investigación y Desarrollo en Tecnologías de la Información y las Comunicaciones – CINTEL. “Apoyo técnico a la Oficina de Tecnología e Informática de la Superintendencia de Industria y Comercio en el desarrollo de las actividades planteadas por la misma para el mejoramiento de la arquitectura tecnológica de procesamiento de datos del centro de cómputo  (fase 1) y actividades definidas en la norma técnica NTC ISO/IEC 27001 para  estructurar el ciclo de planificación de un Sistema de Gestión de Seguridad de la Información – SGSI (fase 2)”.
 
+
+
+---
 
 # SCIENTIFIC PUBLICATIONS
 
@@ -251,6 +270,9 @@ Date: July of 2003
 <!---A full list of 62 items between scientific publications and scientific and technological consultancy - Technical Production [can be found here](http://webs.um.es/felixgm/pubs/managing-access-control-systems-in-distributed-environments-with-dynamic-asset-protection/).--->
 
 
+
+---
+
 # CONTRIBUTIONS TO MAKING COMPUTER SCIENCE MORE EQUITATIVE AND ADITIONAL ACTIVITIES RELATED WITH SHARING OF KNOWLEDGE
 
 ## Work in committees and community engagement
@@ -336,7 +358,10 @@ I participate with some frequency in different social media like broadcast TV (E
 * [Demo Command Injection over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=M2wUCSIeeqY) 
 --->
 
-## Professional and academic profiles
+
+---
+
+# Professional and academic profiles
 
 * [CvLAC Profile](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001616521)
 * [University of Murcia Profile](http://webs.um.es/felixgm/pubs/managing-access-control-systems-in-distributed-environments-with-dynamic-asset-protection/)
