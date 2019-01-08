@@ -145,7 +145,7 @@ Date: July of 2003
 
 # DEVELOPMENT OF PROJECTS
 
-## PARTICIPATION IN RESEARCH PROJECTS WITH FUNDING
+## Participation in Research Projects with Funding
 
 1.	**Strengthening Governance Capacity for Smart Sustainable Cities.** Project funded by Erasmus+ Capacity Building in Higher Education programme. Role: Researcher. Status: To start in 2019. Call: EAC/A05/2017 (999.826,00 €).
 
@@ -159,7 +159,7 @@ Date: July of 2003
 
 6.	**Development of a SIEM (Security Information and Event Management System) solution for the protection of information assets.** Project funded by the Colombian School of Engineering, 2017. Role: Main Researcher. Status: Finished. (10.209,00 €)
 
-## PARTICIPATION IN CONSULTANCY PROJECTS
+## Participation in Consultancy Projects
 
 1. **CONTRATO DE PRESTACIÓN DE SERVICIOS No. 799 de 2016** suscrito entre la Superintendencia de Industria y Comercio – SIC y DANIEL ORLANDO DIAZ LOPEZ. “Prestación de servicios profesionales de un ingeniero en electrónica y telecomunicaciones, para implementar los controles críticos y fundamentales de la fase “Hacer” del Sistema de Gestión de Seguridad de la Información de la Oficina de Tecnología e Informática de la Superintendencia de Industria y Comercio.”
 
