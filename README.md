@@ -192,7 +192,7 @@ Date: July of 2003
 
 # SCIENTIFIC PUBLICATIONS
 
-## Publications in Journals
+**Publications in Journals**
 
 1.	J. Salinas Santiago, K. Gómez Hernández, D. Díaz López, and D. Cabuya Padilla, “[Open Source Search & Analytics for Cybersecurity using Elasticsearch](https://drive.google.com/open?id=1Z52nZFGhDC_nJ_LEmdIIdYB9Srk_XI05),” Rev. UIS Ing., vol. 15, no. 1, 2019 (Accepted).
 2.	C. Aguado, C. Sanchez, D. Díaz López, and J. Garcia, “[Using Reverse Engineering to Face Malware](https://drive.google.com/open?id=1tS5LgtluBp6pIK5PKAKAEcB35PEgZcdw),” J. Eng. Educ., vol. 14, no. 21, pp. 107–121, 2019 (Accepted). 
@@ -206,7 +206,7 @@ Date: July of 2003
 10.	D. Díaz López, G. Dólera Tormo, F. Gómez Mármol, J. M. Alcaraz Calero, and G. Martínez Pérez, “[Live Digital, Remember Digital: State of the Art and Research Challenges](https://drive.google.com/open?id=1Uq429AFZgTaNi0zg-voaoCT0ZD1n5aTE),” Comput. Electr. Eng., vol. 40, no. 1, pp. 109–120, 2014.
 11.	D. Díaz López, B. Mesa, “[Radio Planning Software Tool for Fixed Wireless Access systems in rural environments](https://drive.google.com/open?id=143EEOfXPO88QFyo8WhW4Hg7oP3PpwjgP)”. Informatics Technology Management (GTI) Magazine, Industrial University of Santander, issue 8, number 20, 2009.
 
-## Publications in Conferences
+**Publications in Conferences**
 
 1.	D. Useche, D. Díaz López, P. Nespoli, and F. Gómez Mármol, “[TRIS: a Three-Rings IoT Sentinel to protect against cyber-threats](https://drive.google.com/open?id=1yeGq5FvnfXmvxbUP2mkrroO9Vg54V74b),” in 5th International Conference on Internet of Things, Systems, Management & Security (IOTSMS 2018), At Valencia, Spain, 2018, p. 101.
 2.	C. Meneses, J. Herrera and D. Díaz López, “[Deepweb (TOR, honeypot)](https://drive.google.com/open?id=1kiM6thAKa__03BpwhQZ4ASPy-UZ_pg3Q)”, in Conference OWASP Latam Tour 2018, At Bogota, Colombia, 2018.
@@ -221,26 +221,23 @@ Date: July of 2003
 11.	D. Useche Peláez, M. Bueno Martinez and D. Diaz Lopez, “[The Owasp Enterprise Security Api (Esapi): Security Control Library](https://drive.google.com/open?id=1wxabV4Xl1Fqg4Uun_H47liIsHZaiA_dd)”, In Conference Owasp Latam Tour 2017, At Bogota, Colombia, 2017
 
 
-## Other Technical Production
+**Other Technical Production**
 
 1.	D. Díaz López, Review of the cybersecurity state of the SIC IT department, contract/register: CONSULTANTING CONTRACT No. 799 of 2016 between Superintendence of Industry and Commerce– SIC and D. Díaz López.
 2.	D. Díaz López, Security plan for the SIC IT department, contract/register: CONSULTING CONTRACT No. 799 from 2016 between Superintendence of Industry and Commerce– SIC and D. Díaz López.
 3.	D. Díaz López, Report of execution of the training campaigns developed around the ISMS, contract/register: CONSULTING CONTRACT No. 799 from 2016 between Superintendence of Industry and Commerce– SIC and D. Díaz López.
 4.	D. Díaz López, Report of the updating activities for the software supporting the ISMS, contract/register: CONSULTING CONTRACT No. 799 from 2016 between Superintendence of Industry and Commerce– SIC and D. Díaz López.
 5.	D. Díaz López, Report of security controls implementation for ISMS (26 security controls), contract/register: CONSULTING CONTRACT No. 799 from 2016 between Superintendence of Industry and Commerce– SIC and D. Díaz López.
-
 6.	D. Díaz López, ICT Strategic Planning (PETIC) for SSF, contract/register: CONSULTING CONTRACT No. 081 from 2015 between Superintendence of Family Allowance - SSF and the ICT Research and Development Center - CINTEL.
 7.	D. Díaz López, TI Architecture for the PETIC for SSF, contract/register: CONSULTING CONTRACT No. 081 from 2015 between Superintendence of Family Allowance - SSF and the ICT Research and Development Center - CINTEL.
 8.	D. Díaz López, Diagnostic and technological Evaluation for SSF, contract/register: CONSULTING CONTRACT No. 081 from 2015 between Superintendence of Family Allowance – SSF and the ICT Research and Development Center - CINTEL.
 8.	D. Díaz López, Project Operative Plan, contract/register: CONSULTING CONTRACT No. 081 from 2015 between Superintendence of Family Allowance – SSF and the ICT Research and Development Center - CINTEL.
-
 9.	D. Díaz López, Implementation of security controls defined in the PGSI for SSF, contract/register: CONSULTING CONTRACT No. 046 from 2015 between Superintendence of Family Allowance – SSF and the ICT Research and Development Center - CINTEL.
 9.	D. Díaz López, Report of training and knowledge transfer sessions regarding the policies and procedures of the PGSI, contract/register: CONSULTING CONTRACT No. 046 from 2015 between Superintendence of Family Allowance – SSF and the ICT Research and Development Center - CINTEL.
 10.	D. Díaz López, Policies and procedures for information security, contract/register: CONSULTING CONTRACT No. 195 from 2015 between Unit for Agricultural Rural Planning – UPRA and ICT Research and Development Center - CINTEL.
 9.	D. Díaz López, Dissemination Plan for the information security and Ethical Hacking Report, contract/register: CONSULTING CONTRACT No. 046 from 2015 between Superintendence of Family Allowance – SSF and the ICT Research and Development Center - CINTEL.
 9.	D. Díaz López, Definition of the organizational structure for the security information management in the SSF, contract/register: CONSULTING CONTRACT No. 046 from 2015 between Superintendence of Family Allowance – SSF and the ICT Research and Development Center - CINTEL.
 9.	D. Díaz López, Project Operative Plan, contract/register: CONSULTING CONTRACT No. 046 from 2015 between Superintendence of Family Allowance – SSF and the ICT Research and Development Center - CINTEL.
-
 10.	D. Díaz López, Software to support the ISMS, contract/register: CONSULTING CONTRACT No. 195 from 2015 between Unit for Agricultural Rural Planning – UPRA and ICT Research and Development Center - CINTEL.
 10.	D. Díaz López, Applicable Legal Matrix in information security, contract/register: CONSULTING CONTRACT No. 195 from 2015 between Unit for Agricultural Rural Planning – UPRA and ICT Research and Development Center - CINTEL.
 10.	D. Díaz López, Indicators for the ISMS, contract/register: CONSULTING CONTRACT No. 195 from 2015 between Unit for Agricultural Rural Planning – UPRA and ICT Research and Development Center - CINTEL.
@@ -251,7 +248,6 @@ Date: July of 2003
 11.	D. Díaz López, Manual for an Integrated Management System, contract/register: CONSULTING CONTRACT No. 195 from 2015 between Unit for Agricultural Rural Planning - UPRA and the ICT Research and Development Center - CINTEL.
 12.	D. Díaz López, Ethical Hacking Report, contract/register: CONSULTING CONTRACT No. 195 from 2015 between Unit for Agricultural Rural Planning – UPRA and ICT Research and Development Center - CINTEL.
 12.	D. Díaz López, Project Operative Plan, contract/register: CONSULTING CONTRACT No. 195 from 2015 between Unit for Agricultural Rural Planning – UPRA and ICT Research and Development Center - CINTEL.
-
 12.	D. Díaz López, Software to support the ISMS, contract/register: CONSULTING CONTRACT No. 453 from 2014 between Superintendence of Industry and Commerce – SIC and ICT Research and Development Center - CINTEL.
 12.	D. Díaz López, Statement of Applicability, contract/register: CONSULTING CONTRACT No. 453 from 2014 between Superintendence of Industry and Commerce – SIC and ICT Research and Development Center - CINTEL.
 13.	D. Díaz López, Risk Treatment Plan, contract/register: CONSULTING CONTRACT No. 453 from 2014 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center- CINTEL.
@@ -260,23 +256,20 @@ Date: July of 2003
 13.	D. Díaz López, Information security procedures, contract/register: CONSULTING CONTRACT No. 453 from 2014 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center- CINTEL.
 13.	D. Díaz López, Information Security Policies - specific domain, contract/register: CONSULTING CONTRACT No. 453 from 2014 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center- CINTEL.
 13.	D. Díaz López, Project Operative  Plan, contract/register: CONSULTING CONTRACT No. 453 from 2014 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center- CINTEL.
-
 14.	D. Díaz López, Definition and implementation of methods for the e-government strategy sustainability, contract/register: CONSULTING CONTRACT No. 671 from 2013** between Ministry of Information Technology and the ICT Research and Development Center - CINTEL.
 14.	D. Díaz López, Definition and implementation of the information security model for public sector companies, contract/register: CONSULTING CONTRACT No. 671 from 2013** between Ministry of Information Technology and the ICT Research and Development Center - CINTEL.
 14.	D. Díaz López, Develop specialized support in information security, contract/register: CONSULTING CONTRACT No. 671 from 2013** between Ministry of Information Technology and the ICT Research and Development Center - CINTEL.
 14.	D. Díaz López, Design of the roadmap for each governmental organization to implement the e-government strategy, contract/register: CONSULTING CONTRACT No. 671 from 2013** between Ministry of Information Technology and the ICT Research and Development Center - CINTEL.
 14.	D. Díaz López, Identification of needs in the governmental organizations regarding the e-government national strategy, contract/register: CONSULTING CONTRACT No. 671 from 2013** between Ministry of Information Technology and the ICT Research and Development Center - CINTEL.
-
-
 13.	D. Díaz López, Software to support the ISMS, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center - CINTEL.
 13.	D. Díaz López, Applicable Legal Matrix, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center - CINTEL.
 14.	D. Díaz López, Indicators for the ISMS, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center - CINTEL.
 15.	D. Díaz López, Mechanisms to prevent data leakage, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center - CINTEL.
-16.	D. Díaz López, Label and classification guide, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center - CINTEL.13.	D. Díaz López, Plan for training and awareness in information security, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center- CINTEL.
-17.	D. Díaz López, Procedures and instructions in information security, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center - CINTEL.
-18.	D. Díaz López, Information Security Policies, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center - CINTEL.
-19.	D. Díaz López, Project Operative Plan, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce - SIC and the ICT Research and Development Center - CINTEL.
-
+16.	D. Díaz López, Label and classification guide, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center - CINTEL.
+17.	D. Díaz López, Plan for training and awareness in information security, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center- CINTEL.
+18.	D. Díaz López, Procedures and instructions in information security, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center - CINTEL.
+19.	D. Díaz López, Information Security Policies, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce- SIC and the ICT Research and Development Center - CINTEL.
+20.	D. Díaz López, Project Operative Plan, contract/register: CONSULTING CONTRACT No. 152 from 2013 between Superintendence of Industry and Commerce - SIC and the ICT Research and Development Center - CINTEL.
 19.	D. Díaz López, Information security plan, contract/register: CONSULTING CONTRACT No. 198 from 2012 between Superintendence of Industry and Commerce - SIC and the ICT Research and Development Center - CINTEL.
 19.	D. Díaz López, Information security diagnostic, contract/register: CONSULTING CONTRACT No. 198 from 2012 between Superintendence of Industry and Commerce - SIC and the ICT Research and Development Center - CINTEL.
 19.	D. Díaz López, Document with the review and evaluation of the data center, contract/register: CONSULTING CONTRACT No. 198 from 2012 between Superintendence of Industry and Commerce - SIC and the ICT Research and Development Center - CINTEL.
