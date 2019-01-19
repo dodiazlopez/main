@@ -14,7 +14,9 @@ I am [Daniel Díaz](https://i.imgur.com/2cOugju.jpg), 31, a PhD in Computer Scie
  
 ---
 
-# ORIENTED COURSES - UNDERGRADUATE AND GRADUATE
+# ORIENTED COURSES 
+
+Courses oriented in undergraduate/graduate programs
 
 * [Security and Privacy of Information](https://drive.google.com/open?id=1LXw5ghUJUvY_KDzfj_kIAmK7gxgpDF8T) 
 * [Cyberintelligence](https://drive.google.com/open?id=1HfOsejiyXZefCCyRbRiLYNCh4d9axwyB)
