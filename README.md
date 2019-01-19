@@ -156,7 +156,7 @@ Date: July of 2003
 
 # DEVELOPMENT OF PROJECTS
 
-## Participation in Research Projects with Funding
+**Participation in Research Projects with Funding**
 
 1.	**Strengthening Governance Capacity for Smart Sustainable Cities.** Project funded by Erasmus+ Capacity Building in Higher Education programme. Role: Researcher. Status: To start in 2019. Call: EAC/A05/2017 (999.826,00 €).
 
@@ -170,7 +170,7 @@ Date: July of 2003
 
 6.	**Development of a SIEM (Security Information and Event Management System) solution for the protection of information assets.** Project funded by the Colombian School of Engineering, 2017. Role: Main Researcher. Status: Finished. (10.209,00 €)
 
-## Participation in Consultancy Projects
+**Participation in Consultancy Projects**
 
 1. **CONSULTING CONTRACT No. 799 from 2016** between Superintendence of Industry and Commerce– SIC and D. Díaz López. "Provision of professional services of an engineer in electronics and telecommunications, to implement the critical and fundamental controls of the "Doing phase" of the Information Security Management System of the Technology and Information Office of the Superintendence of Industry and Commerce".
 
