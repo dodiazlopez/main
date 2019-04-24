@@ -330,8 +330,8 @@ I definitely encourage students to participate in different academic activities 
 
 As part of the spreading of result I am always interested in publicizing the new contributions and when possible achieve that papers get published as “open access” or with Creative Common License (CC), so they can be read for whoever is interested. Some recent press release related to paper publications can be found next:
 
-
 1.	[Press release about publication of paper in international journal (2019-04-09)](http://notiweb.escuelaing.edu.co/blog/2019/04/09/profesor-y-un-graduado-de-la-escuela-publicaron-articulo-acerca-de-la-ciberseguridad-en-revista-internacional/)
+1.	[Press release about publication of paper in national journal (2019-01-15)](http://notiweb.escuelaing.edu.co/blog/2019/01/15/profesor-de-la-escuela-y-graduados-publicaron-articulo-sobre-deteccion-de-malware-usando-inteligencia-artificial/)
 3.	[Press release about publication of paper in national journal (2018-12-13)](http://notiweb.escuelaing.edu.co/blog/2018/12/13/profesor-de-la-escuela-y-graduados-publican-articulo-en-revista-indexada-nacional/) 
 2.	[Press release about publication of paper in international journal (2018-12-4)](http://notiweb.escuelaing.edu.co/blog/2018/12/04/profesores-de-la-escuela-y-graduados-publicaron-articulo-en-journal-internacional/)
 1.	[Press release about publication of paper in international journal (2018-11-29)](http://notiweb.escuelaing.edu.co/blog/2018/11/29/profesores-y-graduados-de-la-escuela-publicaron-articulo-en-journal-internacional/)
