@@ -205,7 +205,7 @@ Date: July of 2003
 
 **Publications in Journals**
 
-0.	P. Nespoli, D. Useche Pelaez, D. Díaz López, and F. Gómez Mármol, “[COSMOS: Collaborative, Seamless and Adaptive
+1.	P. Nespoli, D. Useche Pelaez, D. Díaz López, and F. Gómez Mármol, “[COSMOS: Collaborative, Seamless and Adaptive
 Sentinel for the Internet of Things](https://drive.google.com/file/d/1motkm4iJHFdwh5Dpw--bmVsE3wO8BM_z/view),” J. Sensors, vol. 19, no. 7, 2019.
 1.	J. Salinas Santiago, K. Gómez Hernández, D. Díaz López, and D. Cabuya Padilla, “[Open Source Search & Analytics for Cybersecurity using Elasticsearch](https://drive.google.com/open?id=1Z52nZFGhDC_nJ_LEmdIIdYB9Srk_XI05),” Rev. UIS Ing., vol. 15, no. 1, 2019 (Accepted).
 2.	C. Aguado, C. Sanchez, D. Díaz López, and J. Garcia, “[Using Reverse Engineering to Face Malware](https://drive.google.com/open?id=1tS5LgtluBp6pIK5PKAKAEcB35PEgZcdw),” J. Eng. Educ., vol. 14, no. 21, pp. 107–121, 2019 (Accepted). 
@@ -356,13 +356,13 @@ I have participated as speaker in some events addressed for non-specialist audie
 
 I participate with some frequency in different social media like broadcast TV (El Tiempo Television) and Youtube Channels (Channel i+i News, Channel from the Computer Science Faculty), and I also advocate that my students do it. Some available content in which I have participated can be reached in the following links:
 
-11.	[Demo Authentication Bypasses over Webgoat (2019-01-30)](https://www.youtube.com/watch?v=gstn9-o2QkA)
-12.	[Demo Bypass Client Side Javascript Validation over Webgoat (2019-01-30)](https://www.youtube.com/watch?v=jmvGVePmDxA)	
-13.	[Demo XXE (XML External Entity) injection over WebGoat (2019-01-30)](https://www.youtube.com/watch?v=Izc8K8nWBKk)
-14.	[Demo Use of truffleHog (2019-01-30)](https://www.youtube.com/watch?v=4HH8AnvkReA)
-15.	[Demo Use of SSLyze (2019-01-30)](https://www.youtube.com/watch?v=L3qlkDj2aWE)
-15.	[Demo SQL injection (advanced) over WebGoat (2019-01-30)](https://www.youtube.com/watch?v=Yr0TIF5YoNM)
-16.	[Demo SQL Injection (Mitigation) over Webgoat (2019-01-30)](https://www.youtube.com/watch?v=cE4_Njn77sk)
+1.	[Demo Authentication Bypasses over Webgoat (2019-01-30)](https://www.youtube.com/watch?v=gstn9-o2QkA)
+2.	[Demo Bypass Client Side Javascript Validation over Webgoat (2019-01-30)](https://www.youtube.com/watch?v=jmvGVePmDxA)	
+3.	[Demo XXE (XML External Entity) injection over WebGoat (2019-01-30)](https://www.youtube.com/watch?v=Izc8K8nWBKk)
+4.	[Demo Use of truffleHog (2019-01-30)](https://www.youtube.com/watch?v=4HH8AnvkReA)
+5.	[Demo Use of SSLyze (2019-01-30)](https://www.youtube.com/watch?v=L3qlkDj2aWE)
+5.	[Demo SQL injection (advanced) over WebGoat (2019-01-30)](https://www.youtube.com/watch?v=Yr0TIF5YoNM)
+6.	[Demo SQL Injection (Mitigation) over Webgoat (2019-01-30)](https://www.youtube.com/watch?v=cE4_Njn77sk)
 3.	[Interview “Special report about cyberattacks and hacking tutorials” for the “Chanel i+i News” belonging to the Colombian School of Engineering (2017-06-30)](https://www.youtube.com/watch?v=cDZMwQRKcp4&t=1s)
 2.	[Interview “Activities of the HackLab Group” “Actividades del Grupo HackLab” for the “Channel i+i News” belonging to the Colombian School of Engineering (2017-04-07)](https://www.youtube.com/watch?v=SGSqWuQf1nY)
 4.	[Demo Blind String SQL Injection over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=Lfo4hHS4yP8&t=2s)
@@ -371,8 +371,8 @@ I participate with some frequency in different social media like broadcast TV (E
 7.	[Demo XPATH Injection over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=7fYbkqYsXns)
 8.	[Demo String SQL Injection over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=pt9nVSLy3Nk&t=25s)
 9.	[Demo Log Spoofing over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=2GTafXUFUFA&t=1s)
-10.	[Demo Hijack a Session over WebGoat (2017-04-19)](https://www.youtube.com/watch?v=P5TFq2XMLAM&t=5s)
-11.	[Demo Command Injection over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=M2wUCSIeeqY)
+1.	[Demo Hijack a Session over WebGoat (2017-04-19)](https://www.youtube.com/watch?v=P5TFq2XMLAM&t=5s)
+1.	[Demo Command Injection over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=M2wUCSIeeqY)
 1.	[Interview “Bullet Proof Password” - “Contraseñas a prueba de todos”, for the TV program “TECNOSFERA” belonging to “EL TIEMPO TELEVISION” (2017-03-16)](https://www.youtube.com/watch?v=LzXKyVUTbl8)	
 
 <!---
