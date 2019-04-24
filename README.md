@@ -317,12 +317,13 @@ I definitely encourage students to participate in different academic activities 
 
 1.	[Press release about participation of students in the IX Seminar of Security of Information (2018-11-29)](http://notiweb.escuelaing.edu.co/blog/2018/11/29/estudiantes-de-ingenieria-de-sistemas-presentan-sus-proyectos-en-el-ix-seminario-de-seguridad-de-lnformacion/)
 2.	[Press release about participation of students in the 37th Technological Feria in the National Institute of Telecomunications (Brasil) (2018-10-11)](http://notiweb.escuelaing.edu.co/blog/2018/10/11/estudiantes-de-ingenieria-de-sistemas-presentaron-sus-proyectos-de-grado-en-inatel/)
-5.	[Press release about participation of students in the Owasp Latam Tour 2018 (2018-06-26)](http://notiweb.escuelaing.edu.co/blog/2018/06/26/estudiantes-de-ingenieria-de-sistemas-presentaron-ponencias-de-ciberseguridad/)
-2.	[Press release about support for student in the achievement of the certification CSX Cybersecurity fundamentals of Isaca (2018-05-31)](http://notiweb.escuelaing.edu.co/blog/2018/05/31/estudiante-de-ingenieria-de-sistemas-obtiene-certificacion-internacional-en-ciberseguridad/)
-4.	[Press release about participation of students in the VIII Seminar of Security of Information (2018-05-08)](http://notiweb.escuelaing.edu.co/blog/2018/05/08/8vo-seminario-de-seguridad-de-la-informacion/)
-3.	[Press release about participation of student in the academic showcase (2018-05-8)](http://notiweb.escuelaing.edu.co/blog/2018/05/08/ganadores-de-la-vitrina-academica-2018-1/)
-1.	[Press release about support for student to participate in different cybersecurity academic events (2017-12-07)](http://notiweb.escuelaing.edu.co/blog/2017/12/07/socializacion-de-actividades-de-estudiantes-de-ingenieria-de-sistemas-asistentes-a-eventos/)	
-2.	[Press release about participation of students in the Cyberex 2017, (2017-07-25)](http://notiweb.escuelaing.edu.co/blog/2017/08/08/estudiantes-de-ingenieria-de-sistemas-participan-en-ciberseguridad-cyberex-2017/)
+3.	[Press release about participation of students in the Owasp Latam Tour 2018 (2018-06-26)](http://notiweb.escuelaing.edu.co/blog/2018/06/26/estudiantes-de-ingenieria-de-sistemas-presentaron-ponencias-de-ciberseguridad/)
+4.	[Press release about support for student in the achievement of the certification CSX Cybersecurity fundamentals of Isaca (2018-05-31)](http://notiweb.escuelaing.edu.co/blog/2018/05/31/estudiante-de-ingenieria-de-sistemas-obtiene-certificacion-internacional-en-ciberseguridad/)
+5.	[Press release about participation of students in the VIII Seminar of Security of Information (2018-05-08)](http://notiweb.escuelaing.edu.co/blog/2018/05/08/8vo-seminario-de-seguridad-de-la-informacion/)
+6.	[Press release about participation of student in the academic showcase (2018-05-8)](http://notiweb.escuelaing.edu.co/blog/2018/05/08/ganadores-de-la-vitrina-academica-2018-1/)
+7.	[Press release about support for student to participate in different cybersecurity academic events (2017-12-07)](http://notiweb.escuelaing.edu.co/blog/2017/12/07/socializacion-de-actividades-de-estudiantes-de-ingenieria-de-sistemas-asistentes-a-eventos/)
+8.	[Press release about participation of students in the Cyberex 2017, (2017-07-25)](http://notiweb.escuelaing.edu.co/blog/2017/08/08/estudiantes-de-ingenieria-de-sistemas-participan-en-ciberseguridad-cyberex-2017/)
+
 ---
 
 **Promotion of research results**
