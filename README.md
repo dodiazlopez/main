@@ -205,6 +205,8 @@ Date: July of 2003
 
 **Publications in Journals**
 
+0.	P. Nespoli, D. Useche Pelaez, D. Díaz López, and F. Gómez Mármol, “[COSMOS: Collaborative, Seamless and Adaptive
+Sentinel for the Internet of Things](https://drive.google.com/file/d/1motkm4iJHFdwh5Dpw--bmVsE3wO8BM_z/view),” J. Sensors, vol. 19, no. 7, 2019.
 1.	J. Salinas Santiago, K. Gómez Hernández, D. Díaz López, and D. Cabuya Padilla, “[Open Source Search & Analytics for Cybersecurity using Elasticsearch](https://drive.google.com/open?id=1Z52nZFGhDC_nJ_LEmdIIdYB9Srk_XI05),” Rev. UIS Ing., vol. 15, no. 1, 2019 (Accepted).
 2.	C. Aguado, C. Sanchez, D. Díaz López, and J. Garcia, “[Using Reverse Engineering to Face Malware](https://drive.google.com/open?id=1tS5LgtluBp6pIK5PKAKAEcB35PEgZcdw),” J. Eng. Educ., vol. 14, no. 21, pp. 107–121, 2019 (Accepted). 
 3.	M. Hernandez Medina, C. Pinzón Hernández, D. Díaz López, J. Garcia Ruiz, and R. Pinto Rico, “[Open source intelligence (OSINT) as support of cybersecurity operations. Use of OSINT in a Colombian context and sentiment Analysis](https://drive.google.com/open?id=1QQQ1Vhfkn6O1uIp_E2Fwfin93em4TwIf),” Rev. Vínculos, vol. 15, no. 2, pp. 195–214, 2018.
@@ -303,7 +305,7 @@ Date: July of 2003
 
 2.	I am an active member of the group of interest in cybersecurity **“HackLab Bogotá”** which meet every 15 days to share knowledge around different topics like: reversing, hardening, pentesting, security controls, etc. I have participated in logistic labors to guarantee the space and conditions to develop the meetings, and also as current speaker. More information about the HackLab Bogota can be find here: [https://www.meetup.com/es/HackLab-Bogota/](https://www.meetup.com/es/HackLab-Bogota/)
 
-3.	I am an academic counselor of 25 bachelor students (women and men) from the Computer Science Faculty, which are in the first years of the program. Doing this labor as counselor has been one of the most grateful activities I have done, because these students feel free to tell me about their academic worries, vocational concerns and even personal issues. I take it like a really challenge because I am engaged to avoid the scholar desertion due situations that would have been avoided if a proper action/strategy would have adopted.
+3.	I am an academic counselor of 34 bachelor students (women and men) from the Computer Science Faculty, which are in the first years of the program. Doing this labor as counselor has been one of the most grateful activities I have done, because these students feel free to tell me about their academic worries, vocational concerns and even personal issues. I take it like a really challenge because I am engaged to avoid the scholar desertion due situations that would have been avoided if a proper action/strategy would have adopted.
 
 
 ---
@@ -313,44 +315,40 @@ Date: July of 2003
 
 I definitely encourage students to participate in different academic activities like conferences, seminars contests ferias etc. This implies support in the preparation of the content to be shown, the preparation of the students to face a big audience and looking for the financial support with sponsors to make possible the participation. Some press release about these activities can be found next:
 
-1.	[Press release about support for student to participate in different cybersecurity academic events (2017-12-07)](http://notiweb.escuelaing.edu.co/blog/2017/12/07/socializacion-de-actividades-de-estudiantes-de-ingenieria-de-sistemas-asistentes-a-eventos/)
-2.	[Press release about support for student in the achievement of the certification CSX Cybersecurity fundamentals of Isaca (2018-05-31)](http://notiweb.escuelaing.edu.co/blog/2018/05/31/estudiante-de-ingenieria-de-sistemas-obtiene-certificacion-internacional-en-ciberseguridad/)
-3.	[Press release about participation of student in the academic showcase (2018-05-8)](http://notiweb.escuelaing.edu.co/blog/2018/05/08/ganadores-de-la-vitrina-academica-2018-1/)
-4.	[Press release about participation of students in the VIII Seminar of Security of Information (2018-05-08)](http://notiweb.escuelaing.edu.co/blog/2018/05/08/8vo-seminario-de-seguridad-de-la-informacion/)
+1.	[Press release about participation of students in the IX Seminar of Security of Information (2018-11-29)](http://notiweb.escuelaing.edu.co/blog/2018/11/29/estudiantes-de-ingenieria-de-sistemas-presentan-sus-proyectos-en-el-ix-seminario-de-seguridad-de-lnformacion/)
+2.	[Press release about participation of students in the 37th Technological Feria in the National Institute of Telecomunications (Brasil) (2018-10-11)](http://notiweb.escuelaing.edu.co/blog/2018/10/11/estudiantes-de-ingenieria-de-sistemas-presentaron-sus-proyectos-de-grado-en-inatel/)
 5.	[Press release about participation of students in the Owasp Latam Tour 2018 (2018-06-26)](http://notiweb.escuelaing.edu.co/blog/2018/06/26/estudiantes-de-ingenieria-de-sistemas-presentaron-ponencias-de-ciberseguridad/)
-6.	[Press release about participation of students in the 37th Technological Feria in the National Institute of Telecomunications (Brasil) (2018-10-11)](http://notiweb.escuelaing.edu.co/blog/2018/10/11/estudiantes-de-ingenieria-de-sistemas-presentaron-sus-proyectos-de-grado-en-inatel/)
-7.	[Press release about participation of students in the IX Seminar of Security of Information (2018-11-29)](http://notiweb.escuelaing.edu.co/blog/2018/11/29/estudiantes-de-ingenieria-de-sistemas-presentan-sus-proyectos-en-el-ix-seminario-de-seguridad-de-lnformacion/)
-8.	[Press release about participation of students in the Cyberex 2017, (2017-07-25)](http://notiweb.escuelaing.edu.co/blog/2017/08/08/estudiantes-de-ingenieria-de-sistemas-participan-en-ciberseguridad-cyberex-2017/)
-
-
-
-
+2.	[Press release about support for student in the achievement of the certification CSX Cybersecurity fundamentals of Isaca (2018-05-31)](http://notiweb.escuelaing.edu.co/blog/2018/05/31/estudiante-de-ingenieria-de-sistemas-obtiene-certificacion-internacional-en-ciberseguridad/)
+4.	[Press release about participation of students in the VIII Seminar of Security of Information (2018-05-08)](http://notiweb.escuelaing.edu.co/blog/2018/05/08/8vo-seminario-de-seguridad-de-la-informacion/)
+3.	[Press release about participation of student in the academic showcase (2018-05-8)](http://notiweb.escuelaing.edu.co/blog/2018/05/08/ganadores-de-la-vitrina-academica-2018-1/)
+1.	[Press release about support for student to participate in different cybersecurity academic events (2017-12-07)](http://notiweb.escuelaing.edu.co/blog/2017/12/07/socializacion-de-actividades-de-estudiantes-de-ingenieria-de-sistemas-asistentes-a-eventos/)	
+2.	[Press release about participation of students in the Cyberex 2017, (2017-07-25)](http://notiweb.escuelaing.edu.co/blog/2017/08/08/estudiantes-de-ingenieria-de-sistemas-participan-en-ciberseguridad-cyberex-2017/)
 ---
 
 **Promotion of research results**
 
 As part of the spreading of result I am always interested in publicizing the new contributions and when possible achieve that papers get published as “open access” or with Creative Common License (CC), so they can be read for whoever is interested. Some recent press release related to paper publications can be found next:
 
-1.	[Press release about publication of paper in international journal (2018-11-29)](http://notiweb.escuelaing.edu.co/blog/2018/11/29/profesores-y-graduados-de-la-escuela-publicaron-articulo-en-journal-internacional/)
-2.	[Press release about publication of paper in international journal (2018-12-4)](http://notiweb.escuelaing.edu.co/blog/2018/12/04/profesores-de-la-escuela-y-graduados-publicaron-articulo-en-journal-internacional/)
-3.	[Press release about publication of paper in national journal (2018-12-13)](http://notiweb.escuelaing.edu.co/blog/2018/12/13/profesor-de-la-escuela-y-graduados-publican-articulo-en-revista-indexada-nacional/) 
-4.	[Press release about scholarship for professor Daniel Díaz (2018-08-14)](http://notiweb.escuelaing.edu.co/blog/2018/08/14/profesor-de-ingenieria-de-sistemas-recibe-formacion-especializada-para-fuerzas-y-cuerpos-de-seguridad-del-estado-en-leon-espana/)
-5.	[Press release about scholarship awarded to professor Daniel Diaz, (2017-07-31)](http://notiweb.escuelaing.edu.co/blog/2017/07/31/profesor-de-ingenieria-de-sistemas-obtiene-beca-de-la-oea/)
 
+1.	[Press release about publication of paper in international journal (2019-04-09)](http://notiweb.escuelaing.edu.co/blog/2019/04/09/profesor-y-un-graduado-de-la-escuela-publicaron-articulo-acerca-de-la-ciberseguridad-en-revista-internacional/)
+3.	[Press release about publication of paper in national journal (2018-12-13)](http://notiweb.escuelaing.edu.co/blog/2018/12/13/profesor-de-la-escuela-y-graduados-publican-articulo-en-revista-indexada-nacional/) 
+2.	[Press release about publication of paper in international journal (2018-12-4)](http://notiweb.escuelaing.edu.co/blog/2018/12/04/profesores-de-la-escuela-y-graduados-publicaron-articulo-en-journal-internacional/)
+1.	[Press release about publication of paper in international journal (2018-11-29)](http://notiweb.escuelaing.edu.co/blog/2018/11/29/profesores-y-graduados-de-la-escuela-publicaron-articulo-en-journal-internacional/)
+4.	[Press release about scholarship for professor Daniel Díaz (2018-08-14)](http://notiweb.escuelaing.edu.co/blog/2018/08/14/profesor-de-ingenieria-de-sistemas-recibe-formacion-especializada-para-fuerzas-y-cuerpos-de-seguridad-del-estado-en-leon-espana/)	
+1.	[Press release about scholarship awarded to professor Daniel Diaz, (2017-07-31)](http://notiweb.escuelaing.edu.co/blog/2017/07/31/profesor-de-ingenieria-de-sistemas-obtiene-beca-de-la-oea/)
 
 **Networking activities (talks, meetings, presentations for non-specialist audiences)**
 
 I have participated as speaker in some events addressed for non-specialist audiences with the purpose of spread how the science and the research I develop can make our societies safer. Additionally, I am always thinking about doing networking with governmental, industry or academic partners to join efforts and achieve common goals. Some press release related with these activities can be found next:
 
+1.	[Press release about the participation as speaker in the First Think Tank organized by the Colombian Air Force (FAC) (2019-04-04)](http://notiweb.escuelaing.edu.co/blog/2019/04/04/profesor-de-la-escuela-fue-conferencista-en-el-primer-tanque-de-pensamiento-de-la-fuerza-aerea-colombiana/)
 1.	[Press release about meeting with the rector of the University of Murcia (Spain) to start research agreement between universities (2018-11-20)](http://notiweb.escuelaing.edu.co/blog/2018/11/20/profesor-de-la-escuela-se-reunio-con-el-rector-de-la-universidad-de-murcia-espana/)
 2.	[Press release about development of research stage in the University of Murcia (Spain) (2018-11-27)](http://notiweb.escuelaing.edu.co/blog/2018/11/27/profesor-de-la-escuela-realiza-trabajos-de-investigacion-en-el-grupo-de-sistemas-inteligentes-y-telematica-de-la-universidad-de-murcia-espana/)
+7.	[Press release about participation as speaker in the data analytics symposium (2018-10-02)](http://notiweb.escuelaing.edu.co/blog/2018/10/02/asi-se-desarrollo-la-segunda-version-del-simposio-de-data-analytics/)
 3.	[Press release about project with the Cybernetic Joint Command (CCOC) of the Colombian Military Forces (2018-03-15)](http://notiweb.escuelaing.edu.co/blog/2018/03/15/cierre-de-proyecto-de-investigacion-en-ciberseguridad-aplicado-a-las-fuerzas-militares/)
 4.	[Talk over OSINT Cyberintelligence in a military context in the University of Murcia (Spain) (2018-11-20)](https://www.um.es/informatica/index.php?noticia=7301)
 5.	[Press release about public lecture “Resume of the Cybersecurity Summer BootCamp 2017”, (2017-10-04)](http://notiweb.escuelaing.edu.co/blog/2017/10/10/asi-fue-el-cybersecurity-summer-bootcamp-2017/)
 6.	[Press release about public lecture “CSX CYBERSECURITY FUNDAMENTALS by ISACA”, (2017-10-18)](http://notiweb.escuelaing.edu.co/blog/2017/10/26/5798/)
-7.	[Press release about participation as speaker in the data analytics symposium (2018-10-02)](http://notiweb.escuelaing.edu.co/blog/2018/10/02/asi-se-desarrollo-la-segunda-version-del-simposio-de-data-analytics/)
-
-
 
 ---
 
@@ -358,9 +356,15 @@ I have participated as speaker in some events addressed for non-specialist audie
 
 I participate with some frequency in different social media like broadcast TV (El Tiempo Television) and Youtube Channels (Channel i+i News, Channel from the Computer Science Faculty), and I also advocate that my students do it. Some available content in which I have participated can be reached in the following links:
 
-1.	[Interview “Bullet Proof Password” - “Contraseñas a prueba de todos”, for the TV program “TECNOSFERA” belonging to “EL TIEMPO TELEVISION” (2017-03-16)](https://www.youtube.com/watch?v=LzXKyVUTbl8)
-2.	[Interview “Activities of the HackLab Group” “Actividades del Grupo HackLab” for the “Channel i+i News” belonging to the Colombian School of Engineering (2017-04-07)](https://www.youtube.com/watch?v=SGSqWuQf1nY)
+11.	[Demo Authentication Bypasses over Webgoat (2019-01-30)](https://www.youtube.com/watch?v=gstn9-o2QkA)
+12.	[Demo Bypass Client Side Javascript Validation over Webgoat (2019-01-30)](https://www.youtube.com/watch?v=jmvGVePmDxA)	
+13.	[Demo XXE (XML External Entity) injection over WebGoat (2019-01-30)](https://www.youtube.com/watch?v=Izc8K8nWBKk)
+14.	[Demo Use of truffleHog (2019-01-30)](https://www.youtube.com/watch?v=4HH8AnvkReA)
+15.	[Demo Use of SSLyze (2019-01-30)](https://www.youtube.com/watch?v=L3qlkDj2aWE)
+15.	[Demo SQL injection (advanced) over WebGoat (2019-01-30)](https://www.youtube.com/watch?v=Yr0TIF5YoNM)
+16.	[Demo SQL Injection (Mitigation) over Webgoat (2019-01-30)](https://www.youtube.com/watch?v=cE4_Njn77sk)
 3.	[Interview “Special report about cyberattacks and hacking tutorials” for the “Chanel i+i News” belonging to the Colombian School of Engineering (2017-06-30)](https://www.youtube.com/watch?v=cDZMwQRKcp4&t=1s)
+2.	[Interview “Activities of the HackLab Group” “Actividades del Grupo HackLab” for the “Channel i+i News” belonging to the Colombian School of Engineering (2017-04-07)](https://www.youtube.com/watch?v=SGSqWuQf1nY)
 4.	[Demo Blind String SQL Injection over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=Lfo4hHS4yP8&t=2s)
 5.	[Demo Blind Numeric SQL Injection over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=ffm73WEoup0&t=155s)
 6.	[Demo Numeric SQL Injection over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=E_TPEcssMdU&t=21s)
@@ -369,7 +373,7 @@ I participate with some frequency in different social media like broadcast TV (E
 9.	[Demo Log Spoofing over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=2GTafXUFUFA&t=1s)
 10.	[Demo Hijack a Session over WebGoat (2017-04-19)](https://www.youtube.com/watch?v=P5TFq2XMLAM&t=5s)
 11.	[Demo Command Injection over WebGoat (2017-04-07)](https://www.youtube.com/watch?v=M2wUCSIeeqY)
-
+1.	[Interview “Bullet Proof Password” - “Contraseñas a prueba de todos”, for the TV program “TECNOSFERA” belonging to “EL TIEMPO TELEVISION” (2017-03-16)](https://www.youtube.com/watch?v=LzXKyVUTbl8)	
 
 <!---
 ## Media Content (Press release, interviews and demos)
