@@ -1,5 +1,5 @@
 
-I am [Daniel Díaz](https://i.imgur.com/2cOugju.jpg), 32, a PhD in Computer Science who performs as researcher and Assistant Professor in information security in the Colombian School of Engineering Julio Garavito (Colombia). In this site you can find most of the projects which I have being part of and the technical material I have led or built.
+I am [Daniel Díaz](https://i.imgur.com/2cOugju.jpg), 32, a PhD in Computer Science who performs as researcher and Assistant Professor in information security in the Universidad del Rosario (Colombia). In this site you can find most of the projects which I have being part of and the technical material I have led or built.
 
 <!--- [You can find here my Cover Letter](https://drive.google.com/open?id=1qnbSjh9zS2EmUsaKHI2Jx6SGR8sdpzFI) ---> 
 
