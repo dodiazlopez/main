@@ -31,7 +31,7 @@ Courses oriented in undergraduate/graduate programs:
  
 # SOFTWARE PROJECTS
 
-Cybersecurity projects developed specifically for the **Colombian Military Forces**:
+Some of these projects were developed jointly with the **Colombian Military Forces**:
 
 1. Model for detection of anomalies in information security events using predictive models. Project developed for the [General Command of the Military Forces](http://www.cgfm.mil.co/ingles/) (CGFM) of Colombia. Main benefit: Reduction in the attendance and treatment time of security incidents in the SOC (Security Operation Center) of the CGFM.
     * [Press release](http://notiweb.escuelaing.edu.co/blog/2017/10/31/la-escuela-presenta-resultados-de-proyecto-relacionados-con-la-ciberseguridad-a-las-fuerzas-armadas-del-pais/)
@@ -48,35 +48,32 @@ Cybersecurity projects developed specifically for the **Colombian Military Force
     * [Project webpage](https://repositorio.escuelaing.edu.co/handle/001/813)
     * Used tools: [NLTK Library for Python](https://www.nltk.org/), [Maltego](https://www.paterva.com/web7/), [SpiderFoot](https://www.spiderfoot.net/), [Intel Techniques](https://inteltechniques.com/) 
     
-
-Additionally I have participated in the development of other software projects, mainly in cybersecurity: 
-
-1. Data science project aimed to predict the water consume for London city (Ice Water Project): Development of 4 predictive models (one for each season) which determine the water consume for London and helps to control the water pumps which manage the water flow bringing it closer to the real demand. These models can also support the planning of maintenance operations for the city aqueduct.
+3. Data science project aimed to predict the water consume for London city (Ice Water Project): Development of 4 predictive models (one for each season) which determine the water consume for London and helps to control the water pumps which manage the water flow bringing it closer to the real demand. These models can also support the planning of maintenance operations for the city aqueduct.
     * [Root project - Ice Water Project](http://cordis.europa.eu/project/rcn/105539_en.html)
     * [Project overview - Executive summary](https://drive.google.com/open?id=15b2R2w9UjA2CuoUPO9TsIChwdBpUUuKf)
     * [Databases](https://drive.google.com/open?id=1GhKWklZCYAPh5_XwWddO8amj8QQPxZOz)
     * [R Scripts](https://drive.google.com/open?id=181gNbimak9cqlsmOcXjKBBV4BmE8heh-)
     * Used tools: [RStudio](https://www.rstudio.com/)
 
-2. COSMOS: Collaborative, Seamless and Adaptive Sentinels for the Internet of Things - Project developed for the University of Murcia
+4. COSMOS: Collaborative, Seamless and Adaptive Sentinels for the Internet of Things - Project developed for the University of Murcia
    * [Project homepage](http://webs.um.es/felixgm/projects/cosmos/)
 
-3. Security for IoT: Solution for management of security events in (IoT) architectures
+5. Security for IoT: Solution for management of security events in (IoT) architectures
    * [GitLab Link](https://github.com/andresvega82/SIEM-IoT)
    * Used tools: [OSSIM - The Open Source SIEM](https://www.alienvault.com/products/ossim), [OpenVas Vulnerability Scanner](http://www.openvas.org/), [Suricata IDS](https://suricata-ids.org/), [Kismet Wireless IDS](https://www.kismetwireless.net/) 
    * Draft paper: [Security for IoT: Solution for managing security events in Internet of Things Architectures (IoT)](https://goo.gl/BuJAe9)
 
-3. Cyberintelligence for Internet of Things
+6. Cyberintelligence for Internet of Things
    * [GitLab Link](https://gitlab.com/Useche/PGRCyberintelligence)
    * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-Intel.jpg)
    * Used tools: [Radare2 Reversing Engineering](https://github.com/radare/radare2), [MISP: Malware Information Sharing Platform](http://www.misp-project.org/), [Yara Rules](https://github.com/Yara-Rules/rules), [R2Yara](https://github.com/Yara-Rules/r2yara)
 
-3. Design and development of IOT devices for SMART HOME
+7. Design and development of IOT devices for SMART HOME
    * [GitHub Link](https://github.com/Manny2296/Desarrollo-e-Implementacion-Dispositivos-IoT)
    * [Poster](http://www.escuelaing.edu.co/escuela/vitrinaAcademica/2017-2/img/Poster-IoTNodes.jpg)
    * Used tools: [OSMC](https://osmc.tv/), [WepIOPI Framework](http://webiopi.trouch.com/), [IoT HUB from Microsoft](https://azure.microsoft.com/en-us/services/iot-hub/), [StreamAnalytics](https://azure.microsoft.com/en-us/services/stream-analytics/), [PowerBI](https://powerbi.microsoft.com/)
 
-4. Analysis of information security risks in different IoT scenarios
+8. Analysis of information security risks in different IoT scenarios
    * Draft paper: [Towards IoT Security: Revision of Scenarios and Security Challenges](https://goo.gl/9M3MMG)
    * Draft paper: [Case Report: Comparison of security features in IoT platforms and implementation of an avionic IoT service](https://goo.gl/r8179r)
    * Used tools: [Samsung Artik IoT](https://www.artik.io/), [Amazon IoT](https://aws.amazon.com/iot/?nc1=f_ls), [Oracle IoT](https://cloud.oracle.com/iot), [IBM Watson IoT](https://internetofthings.ibmcloud.com/#/)
@@ -177,17 +174,19 @@ Date: July of 2003
 
 **Participation in Research Projects with Funding**
 
-1.	**Strengthening Governance Capacity for Smart Sustainable Cities.** Project funded by Erasmus+ Capacity Building in Higher Education programme. Role: Researcher. Status: To start in 2019. Call: EAC/A05/2017 (999.826,00 €).
+1. **Developing Cyber Intelligence Capacities for the Prevention of Crime.** Project funded by University of Rosario. 2021. Role: Main Researcher. Status: Finished. Call: IV-TFA043 (5000,00 €).
 
-2.	**Developing secure and resilient architectures for Smart Sustainable Cities.** Project funded by the Colombian School of Engineering. Role: Main researcher. Status: To start in 2019. CALL: PRP0010 - CI_JI_2018 (79.295,75 US).
+2.	**Strengthening Governance Capacity for Smart Sustainable Cities.** Project funded by Erasmus+ Capacity Building in Higher Education programme. 2019. Role: Researcher. Status: Finished. Call: EAC/A05/2017 (999.826,00 €).
 
-3.	**COSMOS: Collaborative, Seamless and Adaptive Sentinels for the Internet of Things.** Project funded by BBVA Foundation, 2017-2018. Role: Researcher. Status: Finished. (35.000,00 €)
+3.	**Developing secure and resilient architectures for Smart Sustainable Cities.** Project funded by the Colombian School of Engineering. 2019. Role: Main researcher. Status: Finished. CALL: PRP0010 - CI_JI_2018 (79.295,75 US).
 
-4.	**Cybersecurity Architecture for Incident Management.** Project funded by the Colombian School of Engineering, 2018. Role: Researcher. Status: Finished. (13.918,00 €)
+4.	**COSMOS: Collaborative, Seamless and Adaptive Sentinels for the Internet of Things.** Project funded by BBVA Foundation, 2017-2018. Role: Researcher. Status: Finished. (35.000,00 €)
 
-5.	**Design and development of reactive tools with application to distributed middleware for the processing of big data.** Project funded by the Colombian School of Engineering, 2018. Role: Researcher. Status: Finished. (12.945,00 €)
+5.	**Cybersecurity Architecture for Incident Management.** Project funded by the Colombian School of Engineering, 2018. Role: Researcher. Status: Finished. (13.918,00 €)
 
-6.	**Development of a SIEM (Security Information and Event Management System) solution for the protection of information assets.** Project funded by the Colombian School of Engineering, 2017. Role: Main Researcher. Status: Finished. (10.209,00 €)
+6.	**Design and development of reactive tools with application to distributed middleware for the processing of big data.** Project funded by the Colombian School of Engineering, 2018. Role: Researcher. Status: Finished. (12.945,00 €)
+
+7.	**Development of a SIEM (Security Information and Event Management System) solution for the protection of information assets.** Project funded by the Colombian School of Engineering, 2017. Role: Main Researcher. Status: Finished. (10.209,00 €)
 
 **Participation in Consultancy Projects**
 
@@ -205,7 +204,7 @@ Date: July of 2003
 
 7. **CONSULTING CONTRACT No. 152 from 2013** between Ministry of Information Technology and the ICT Research and Development Center - CINTEL. "Support to the Office of Technology of the Superintendence of Industry and Commerce (SIC) in the development of the activities defined in the technical standard ISO 27001 to structure the phase "Doing" of the Information Security Management (ISMS)".
 
-8. **CONSULTING CONTRACT No. 198 from 2012** between Superintendence of Industry and Commerce – SIC and ICT Research and Development Center - CINTEL. "Technical support to the Office of Technology of the Superintendence of Industry and Commerce in the development of the activities proposed for the improvement of the technological architecture of the data center (phase 1) and activities defined in the technical standard ISO 27001 to structure the phase "Planning" of an Information Security Management System - ISMS (phase 2) ".
+8. **CONSULTING CONTRACT No. 198 from 2012** between Superintendence of Industry and Commerce – SIC and ICT Research and Development Center - CINTEL. "Technical support to the Office of Technology of the Superintendence of Industry and Commerce in the development of the activities proposed for the improvement of the technological architecture of the data center (phase 1) and activities defined in the technical standard ISO 27001 to structure the phase "Planning" of an Information Security Management System - ISMS (phase 2)".
 
 ---
 
