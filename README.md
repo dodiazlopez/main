@@ -27,6 +27,8 @@ Courses oriented in undergraduate/graduate programs:
 * Chief information security officer (aligned with the [CCISO](https://ciso.eccouncil.org/) certification)
 * Network security (aligned with the CCNA Security certification)
 * Security for cloud computing (aligned with the [AWS security specialty](https://aws.amazon.com/certification/certified-security-specialty/) certification as I am AWS Faculty Ambassador)
+
+
 ---
  
 # SOFTWARE PROJECTS
