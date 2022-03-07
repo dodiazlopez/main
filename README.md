@@ -125,45 +125,51 @@ EXIN your ICT competence partner. License 4955987.20238281. May 2013
 
 # AWARDS
 
-1.	**Award: Scholarship to participate in the Cybersecurity Summer BootCamp 2018**
+1. **Award: Finalist in the Excellence in Teaching contest 2021**
+Awarded by: University of Rosario (Colombia)
+
+2. **Award: Best paper award [C3-Sex: a Chatbot to Chase Cyber perverts](https://drive.google.com/file/d/18uKSJqLONngtpRY-x1MdpMuZsz4X7-Ky/view?usp=sharing)** 
+Awaded by: The 4th IEEE Cyber Science and Technology Congress. Fukuoka, Japan, 2019.
+
+3.	**Award: Scholarship to participate in the Cybersecurity Summer BootCamp 2018**
 Awarded by: General Secretariat of the Organization of American States – OAS (International) and the Spanish National Cybersecurity Institute – INCIBE (Spain)
 Date: July 2018.
 
-2.	**Award: Junior Researcher**
+4.	**Award: Junior Researcher**
 Awarded by: Colombian School of Engineering Julio Garavito (Colombia)
 Date: February 2018.
 
-3.	**Award: Scholarship to participate in the Cybersecurity Summer BootCamp 2017**
+5.	**Award: Scholarship to participate in the Cybersecurity Summer BootCamp 2017**
 Awarded by: General Secretariat of the Organization of American States – OAS (International) and the Spanish National Cybersecurity Institute – INCIBE (Spain)
 Date: July 2017.
 
-4.	**Award: International doctor. Distinction Cum Laude**
+6.	**Award: International doctor. Distinction Cum Laude**
 Awarded by: University of Murcia (Spain)
 Date: November 2015.
 
-5.	**Award: Honor mention in Communications Technologies** 
+7.	**Award: Honor mention in Communications Technologies** 
 Awarded by: University of Murcia (Spain)
 Date: June 2011.
 
-6.	**Award: Honor mention in Wireless Networks**
+8.	**Award: Honor mention in Wireless Networks**
 Awarded by: University of Murcia (Spain)
 Date: June 2011.
 
-7.	**Award: Master scholarship**
+9.	**Award: Master scholarship**
 Awarded by: Ministry of Foreign Affairs from the Spanish government (Spain)
 Date: June of 2010.
 
-8.	**Award: Half honor for high academic performance**
+10.	**Award: Half honor for high academic performance**
 Awarded by: University of Cauca (Colombia)
 Reason: Second Best academic GPA 9th, 6th semester. 
 Dates: II-2007, I-2006.
 
-9.	**Award: Honors for high academic performance**
+11.	**Award: Honors for high academic performance**
 Awarded by: University of Cauca (Colombia)
 Reason: Best academic GPA 8th, 7th, 5th, 4th semester. 
 Date: I-2007, II-2006, II-2005, I-2005.
 
-10.	**Award: Recognition of academic excellence**
+12.	**Award: Recognition of academic excellence**
 Awarded by: Seminario Menor Arquidiocesano (Colombia)
 Type of entity: Catholic High School.
 Date: July of 2003 
@@ -236,8 +242,8 @@ Sentinel for the Internet of Things](https://drive.google.com/file/d/1motkm4iJHF
 
 **Publications in Conferences**
 
-1. J. Murcia, S. Moreno, **D. Díaz-López**, and F. Gómez Mármol . C3-Sex: a Chatbot to Chase Cyber perverts. The 4th IEEE Cyber Science and Technology Congress. Fukuoka, Japan, 2019.
-2. A. Pardo, F. Ardila, **D. Díaz-López**, and F. Gómez Mármol. BSIEM-IoT: A Blockchain-based and Distributed SIEM for the Internet of Things. 17th International Conference on Applied Cryptography and Network Security (ACNS). 1st International Workshop on Application Intelligence and Blockchain Security (AIBlock). Bogota, Colombia. 2019.
+1. J. Murcia, S. Moreno, **D. Díaz-López**, and F. Gómez Mármol. [C3-Sex: a Chatbot to Chase Cyber perverts](https://drive.google.com/file/d/18uKSJqLONngtpRY-x1MdpMuZsz4X7-Ky/view?usp=sharing). The 4th IEEE Cyber Science and Technology Congress. Fukuoka, Japan, 2019.
+2. A. Pardo, F. Ardila, **D. Díaz-López**, and F. Gómez Mármol. [BSIEM-IoT: A Blockchain-based and Distributed SIEM for the Internet of Things](https://drive.google.com/file/d/1xy0qZtqjMs6LYR_gHHW4FaxpKQk46tws/view?usp=sharing). 17th International Conference on Applied Cryptography and Network Security (ACNS). 1st International Workshop on Application Intelligence and Blockchain Security (AIBlock). Bogota, Colombia. 2019.
 3.	D. Useche, **D. Díaz-López**, P. Nespoli, and F. Gómez Mármol, “[TRIS: a Three-Rings IoT Sentinel to protect against cyber-threats](https://drive.google.com/open?id=1yeGq5FvnfXmvxbUP2mkrroO9Vg54V74b),” in 5th International Conference on Internet of Things, Systems, Management & Security (IOTSMS 2018), At Valencia, Spain, 2018, p. 101.
 4.	C. Meneses, J. Herrera and **D. Díaz-López**, “[Deepweb (TOR, honeypot)](https://drive.google.com/open?id=1kiM6thAKa__03BpwhQZ4ASPy-UZ_pg3Q)”, in Conference OWASP Latam Tour 2018, At Bogota, Colombia, 2018.
 5.	J. Salinas Santiago, K. Gómez Hernández and **D. Díaz-López**, “[Open Source Search & Analytics - Elastisearch](https://drive.google.com/open?id=1Q_IG_lpDArWGCCxSJTpKHv925QARBJza)”, in Conference OWASP Latam Tour 2018, At Bogota, Colombia, 2018.
