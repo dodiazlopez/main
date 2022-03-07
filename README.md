@@ -418,9 +418,10 @@ I participate with some frequency in different social media like broadcast TV (E
 # PROFESSIONAL AND ACADEMIC PROFILES
 
 * [CvLAC Profile](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001616521)
+* [University of Rosario Profile](https://research-hub.urosario.edu.co/display/daniel-orlando-diaz-lopez)
 * [University of Murcia Profile](http://webs.um.es/felixgm/pubs/managing-access-control-systems-in-distributed-environments-with-dynamic-asset-protection/)
 * [LinkedIn Profile](https://www.linkedin.com/in/daniel-d%C3%ADaz-l%C3%B3pez-41638815/)
 
 ---
 
-If you are interested in some of the topics presented here or want to make research about cyberdefense, cyberintelligence, privacy, security in software development cycle, Ethical Hacking, security in Internet of Things (IoT), do not hesitate to contact me to my  email: dodiazlopez@gmail.com
+If you are interested in some of the topics presented here or want to make research about cyberdefense, cyberintelligence, privacy, security in software development cycle, Ethical Hacking, security in Internet of Things (IoT), do not hesitate to contact me to my  email: danielo.diaz@urosario.edu.co
