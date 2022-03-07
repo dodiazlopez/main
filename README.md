@@ -1,5 +1,5 @@
 
-I am [Daniel Díaz](https://i.imgur.com/2cOugju.jpg), 32, a PhD in Computer Science who performs as researcher and Assistant Professor in information security in the Universidad del Rosario (Colombia). In this site you can find most of the projects which I have being part of and the technical material I have led or built.
+I am [Daniel Díaz-López](https://i.imgur.com/2cOugju.jpg), 35, a PhD in Computer Science who performs as researcher and Professor in information security in the Universidad del Rosario (Colombia). In this site you can find most of the projects which I have being part of and the technical material I have led or built.
 
 <!--- [You can find here my Cover Letter](https://drive.google.com/open?id=1qnbSjh9zS2EmUsaKHI2Jx6SGR8sdpzFI) ---> 
 
@@ -16,13 +16,17 @@ I am [Daniel Díaz](https://i.imgur.com/2cOugju.jpg), 32, a PhD in Computer Scie
 
 # ORIENTED COURSES 
 
-Courses oriented in undergraduate/graduate programs
+Courses oriented in undergraduate/graduate programs:
 
-* [Security and Privacy of Information](https://drive.google.com/open?id=1LXw5ghUJUvY_KDzfj_kIAmK7gxgpDF8T) 
-* [Cyberintelligence](https://drive.google.com/open?id=1HfOsejiyXZefCCyRbRiLYNCh4d9axwyB)
-* [Security in the Software Development Cycle](https://drive.google.com/open?id=1O8oXSHxYxN5gFXdQQ_U-9to_QWDTXK83)
-* [Information Security Management Systems](https://drive.google.com/open?id=1QKeaV29TiM7or0joV9g89xLPq-1n3Gxc)
-
+* Artificial Intelligence for cybersecurity
+* Digital forensic and incident handling
+* Threat Intelligence (aligned with [FOR578](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/) certification)
+* Security in Enterprise Architecture (aligned with [SABSA](https://sabsa.org/sabsa-executive-summary/) framework)
+* Ethical hacking (aligned with the [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) certification)
+* Security in the software development life cycle (aligned with the [CASE](https://www.eccouncil.org/programs/application-security-training/) certification)
+* Chief information security officer (aligned with the [CCISO](https://ciso.eccouncil.org/) certification)
+* Network security (aligned with the CCNA Security certification)
+* Security for cloud computing (aligned with the [AWS security specialty](https://aws.amazon.com/certification/certified-security-specialty/) certification as I am AWS Faculty Ambassador)
 ---
  
 # SOFTWARE PROJECTS
@@ -83,7 +87,7 @@ Additionally I have participated in the development of other software projects, 
 
 # EDUCATION AND TRAINING
 
-* [University of Murcia (Spain)](https://digitum.um.es/jspui/handle/10201/46998?mode=full)
+* [University of Murcia (Spain) - NEC Laboratories Europe (Germany)](https://digitum.um.es/jspui/handle/10201/46998?mode=full)
 Doctor of Philosophy (PhD) in Computer Science (Security in Services and Applications in Networks), 2011 – 2015. Grade: Cum Laude
 
 * [University of Murcia (Spain)](http://www.um.es/gsit/?m=27)
@@ -97,6 +101,10 @@ Engineer’s degree, Electronic and Telecommunications Engineer, 2003 - 2009
 
 # TECHNICAL CERTIFICATIONS
 
+* **AWS Faculty Ambassador**
+Amazon Web Services Education. April 2020
+* **AWS Cybersecurity Specialist (IAM, Cloud Trial, Cloud Watch, Amazon Inspector)**
+Amazon Web Services Education. December 2020
 * **Law Enforcement Agencies (FCS) – Cybersecurity Intelligence Specialist**
 Spanish National Cybersecurity Institute (INCIBE). July 2018
 * **Advanced CERT Specialist**
@@ -204,20 +212,26 @@ Date: July of 2003
 # SCIENTIFIC PUBLICATIONS
 
 **Publications in Journals**
-
-1.	P. Nespoli, D. Useche Pelaez, D. Díaz López, and F. Gómez Mármol, “[COSMOS: Collaborative, Seamless and Adaptive
+1. J. Ramirez Sánchez, A. Campo-Archbold, A. Zapata Rozo, D. Díaz-López, J. Pastor-Galindo, F. Gómez Mármol, J. Aponte Díaz, "[On the power of social networks to analyze threatening trends](https://doi.org/10.1109/MIC.2022.3154712)", IEEE Internet Computing, vol. 2022, 9 pages, 2022, doi: 10.1109/MIC.2022.3154712.
+2. J. Ramirez Sánchez, A. Campo-Archbold, A. Zapata Rozo, D. Díaz-López, J. Pastor-Galindo, F. Gómez Mármol, J. Aponte Díaz, "[Uncovering Cybercrimes in Social Media through Natural Language Processing](https://www.hindawi.com/journals/complexity/2021/7955637/)", Complexity, vol. 2021, Article ID 7955637, 15 pages, 2021. https://doi.org/10.1155/2021/7955637
+3. I. Martínez Martínez, A. Florián Quitián, D. Díaz-López, P. Nespoli, F. Gómez Mármol, "[MalSEIRS: Forecasting Malware Spread Based on Compartmental Models in Epidemiology](https://www.hindawi.com/journals/complexity/2021/5415724/)", Complexity, vol. 2021, Article ID 5415724, 19 pages, 2021. https://doi.org/10.1155/2021/5415724
+4. P. Nespoli, D. Díaz-López, F Gómez. “[Cyberprotection in IoT environments: A dynamic rule-based solution to defend smart devices](https://www.sciencedirect.com/science/article/pii/S2214212621001058)”, Journal of Information Security and Applications, Volume 60, August 2021.
+5. J. Ibañez, S. Rocha, D. Díaz-López, J. Pastor-Galindo, F. Gómez. “[C3-Sex: A conversational agent to detect online sex offenders](https://www.mdpi.com/2079-9292/9/11/1779)”. Electronics, SI Advanced Cybersecurity Services Design”, Electronics, October 2020, 9(11).
+6. J. Velandia, A. Pardo, F. Ardila, D, Díaz-López, P. Nespoli, F. Gómez. “[BlockSIEM: Protecting smart city services through a blockchain-based and distributed SIEM](https://www.mdpi.com/1424-8220/20/16/4636)”, Sensors, August 2020, 20(16).
+7. M. Sanabria-Ardila, L. D. B. Navarro, D. Díaz-López and W. Garzón-Alfonso, "A Semantic Framework for the Design of Distributed Reactive Real-Time Languages and Applications,"  IEEE Access, vol. 8, pp. 143862-143880, 2020, doi: 10.1109/ACCESS.2020.3010697.
+8.	P. Nespoli, D. Useche Pelaez, D. Díaz López, and F. Gómez Mármol, “[COSMOS: Collaborative, Seamless and Adaptive
 Sentinel for the Internet of Things](https://drive.google.com/file/d/1motkm4iJHFdwh5Dpw--bmVsE3wO8BM_z/view),” J. Sensors, vol. 19, no. 7, 2019.
-1.	J. Salinas Santiago, K. Gómez Hernández, D. Díaz López, and D. Cabuya Padilla, “[Open Source Search & Analytics for Cybersecurity using Elasticsearch](https://drive.google.com/open?id=1Z52nZFGhDC_nJ_LEmdIIdYB9Srk_XI05),” Rev. UIS Ing., vol. 15, no. 1, 2019 (Accepted).
-2.	C. Aguado, C. Sanchez, D. Díaz López, and J. Garcia, “[Using Reverse Engineering to Face Malware](https://drive.google.com/open?id=1tS5LgtluBp6pIK5PKAKAEcB35PEgZcdw),” J. Eng. Educ., vol. 14, no. 21, pp. 107–121, 2019 (Accepted). 
-3.	M. Hernandez Medina, C. Pinzón Hernández, D. Díaz López, J. Garcia Ruiz, and R. Pinto Rico, “[Open source intelligence (OSINT) as support of cybersecurity operations. Use of OSINT in a Colombian context and sentiment Analysis](https://drive.google.com/open?id=1QQQ1Vhfkn6O1uIp_E2Fwfin93em4TwIf),” Rev. Vínculos, vol. 15, no. 2, pp. 195–214, 2018.
-4.	D. Useche-Peláez, D. Díaz-López, D. Sepúlveda-Alzate, and D. Cabuya-Padilla, “[Building malware classificators usable by State security agencies](https://drive.google.com/open?id=1t2HlIzt1tlpaxR3U6dxVAuFYK9003B3T),” ITECKNE, vol. 15, no. 2, pp. 107–121, 2018.
-5.	D. Díaz López et al., “[Shielding IoT against cyber-attacks: An event-based approach using SIEM](https://drive.google.com/open?id=1wlmM5rnNUQq8VgHrbVdM-pL-Q-r1O4jl),” Wirel. Commun. Mob. Comput., vol. 2018, 2018.
-6.	D. Díaz López et al., “[Developing Secure IoT Services: A Security-Oriented Review of IoT Platforms](https://drive.google.com/open?id=1fc29nu9CRt-QPneb0_qhB1ydYl4nmUqc),” Symmetry (Basel)., vol. 10, no. 12, 2018.
-7.	L. D. Benavides Navarro et al., “[REAL-T: Time Modularization in Reactive Distributed Applications](https://drive.google.com/open?id=1FirOmbnpHx16V1UGhol3ZB_hhmf3DRoJ),” in Advances in Computing, 2018, vol. 885, pp. 113–127.
-8.	D. Díaz-López, G. Dólera-Tormo, F. Gómez-Mármol, and G. Martínez-Pérez, “[Dynamic counter-measures for risk-based access control systems: An evolutive approach](https://drive.google.com/open?id=1rhl3W6X5ojbe0sJZfwxsemgz2nPYThyH),” Futur. Gener. Comput. Syst., vol. 55, pp. 321–335, 2016.
-9.	D. Díaz López, G. Dólera Tormo, F. Gómez Mármol, and G. Martínez Pérez, “[Managing XACML systems in distributed environments through Meta-Policies](https://drive.google.com/open?id=1k0P1LnyuuGt2jwApsiRwfcXkoyr4K8Vw),” Comput. Secur., vol. 48, pp. 92–115, 2015.
-10.	D. Díaz López, G. Dólera Tormo, F. Gómez Mármol, J. M. Alcaraz Calero, and G. Martínez Pérez, “[Live Digital, Remember Digital: State of the Art and Research Challenges](https://drive.google.com/open?id=1Uq429AFZgTaNi0zg-voaoCT0ZD1n5aTE),” Comput. Electr. Eng., vol. 40, no. 1, pp. 109–120, 2014.
-11.	D. Díaz López, B. Mesa, “[Radio Planning Software Tool for Fixed Wireless Access systems in rural environments](https://drive.google.com/open?id=143EEOfXPO88QFyo8WhW4Hg7oP3PpwjgP)”. Informatics Technology Management (GTI) Magazine, Industrial University of Santander, issue 8, number 20, 2009.
+9.	J. Salinas Santiago, K. Gómez Hernández, D. Díaz López, and D. Cabuya Padilla, “[Open Source Search & Analytics for Cybersecurity using Elasticsearch](https://drive.google.com/open?id=1Z52nZFGhDC_nJ_LEmdIIdYB9Srk_XI05),” Rev. UIS Ing., vol. 15, no. 1, 2019 (Accepted).
+10.	C. Aguado, C. Sanchez, D. Díaz López, and J. Garcia, “[Using Reverse Engineering to Face Malware](https://drive.google.com/open?id=1tS5LgtluBp6pIK5PKAKAEcB35PEgZcdw),” J. Eng. Educ., vol. 14, no. 21, pp. 107–121, 2019 (Accepted). 
+11.	M. Hernandez Medina, C. Pinzón Hernández, D. Díaz López, J. Garcia Ruiz, and R. Pinto Rico, “[Open source intelligence (OSINT) as support of cybersecurity operations. Use of OSINT in a Colombian context and sentiment Analysis](https://drive.google.com/open?id=1QQQ1Vhfkn6O1uIp_E2Fwfin93em4TwIf),” Rev. Vínculos, vol. 15, no. 2, pp. 195–214, 2018.
+12.	D. Useche-Peláez, D. Díaz-López, D. Sepúlveda-Alzate, and D. Cabuya-Padilla, “[Building malware classificators usable by State security agencies](https://drive.google.com/open?id=1t2HlIzt1tlpaxR3U6dxVAuFYK9003B3T),” ITECKNE, vol. 15, no. 2, pp. 107–121, 2018.
+13.	D. Díaz López et al., “[Shielding IoT against cyber-attacks: An event-based approach using SIEM](https://drive.google.com/open?id=1wlmM5rnNUQq8VgHrbVdM-pL-Q-r1O4jl),” Wirel. Commun. Mob. Comput., vol. 2018, 2018.
+14.	D. Díaz López et al., “[Developing Secure IoT Services: A Security-Oriented Review of IoT Platforms](https://drive.google.com/open?id=1fc29nu9CRt-QPneb0_qhB1ydYl4nmUqc),” Symmetry (Basel)., vol. 10, no. 12, 2018.
+15.	L. D. Benavides Navarro et al., “[REAL-T: Time Modularization in Reactive Distributed Applications](https://drive.google.com/open?id=1FirOmbnpHx16V1UGhol3ZB_hhmf3DRoJ),” in Advances in Computing, 2018, vol. 885, pp. 113–127.
+16.	D. Díaz-López, G. Dólera-Tormo, F. Gómez-Mármol, and G. Martínez-Pérez, “[Dynamic counter-measures for risk-based access control systems: An evolutive approach](https://drive.google.com/open?id=1rhl3W6X5ojbe0sJZfwxsemgz2nPYThyH),” Futur. Gener. Comput. Syst., vol. 55, pp. 321–335, 2016.
+17.	D. Díaz López, G. Dólera Tormo, F. Gómez Mármol, and G. Martínez Pérez, “[Managing XACML systems in distributed environments through Meta-Policies](https://drive.google.com/open?id=1k0P1LnyuuGt2jwApsiRwfcXkoyr4K8Vw),” Comput. Secur., vol. 48, pp. 92–115, 2015.
+18.	D. Díaz López, G. Dólera Tormo, F. Gómez Mármol, J. M. Alcaraz Calero, and G. Martínez Pérez, “[Live Digital, Remember Digital: State of the Art and Research Challenges](https://drive.google.com/open?id=1Uq429AFZgTaNi0zg-voaoCT0ZD1n5aTE),” Comput. Electr. Eng., vol. 40, no. 1, pp. 109–120, 2014.
+19.	D. Díaz López, B. Mesa, “[Radio Planning Software Tool for Fixed Wireless Access systems in rural environments](https://drive.google.com/open?id=143EEOfXPO88QFyo8WhW4Hg7oP3PpwjgP)”. Informatics Technology Management (GTI) Magazine, Industrial University of Santander, issue 8, number 20, 2009.
 
 **Publications in Conferences**
 
